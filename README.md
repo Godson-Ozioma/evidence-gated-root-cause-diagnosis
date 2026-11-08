@@ -1,8 +1,27 @@
-# Reproducible synthetic fintech diagnosis study
+# Evidence Gated Root Cause Diagnosis for Fintech Microservices Under Telemetry Loss
 
-This package accompanies **Evidence Gated Root Cause Diagnosis for Fintech Microservices Under Telemetry Loss**.
+This repository contains the reproducibility package for the published research article:
+
+**Evidence Gated Root Cause Diagnosis for Fintech Microservices Under Telemetry Loss**
+
+**Authors:** Chidera Omoyemi Duru, Godson N Ozioma, Ijeoma C. Mordi  
+**Journal:** Global Journal of Advanced Research and Reviews  
+**Volume:** 4  
+**Issue:** 4  
+**Pages:** 048–062  
+**Year:** 2026  
+
+**Article:**  
+https://gsjournals.com/gjarr/content/evidence-gated-root-cause-diagnosis-fintech-microservices-under-telemetry-loss
+
+**DOI:**  
+https://doi.org/10.58175/gjarr.2026.4.4.0091
+
+## About this repository
+
+This repository provides the code, synthetic datasets, generated figures, integrity checks and supporting material used to reproduce the study.
+
 No production traces, financial customer data, human participants, or measured incident-response times are included.
-
 ## Reproduction
 
 Run `python run_study.py` in this directory. It writes the incident-level data, telemetry, summary, signature tests and figures. The recorded environment used Python 3.12.14 and NumPy 2.3.5. See requirements.txt for the packages used. `python build_manuscript.py` recreates the Word file if the two source attachments are placed under the relative `../upload/` paths referred to by the script. Manuscript text is in manuscript_content.py.
