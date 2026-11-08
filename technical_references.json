@@ -1,0 +1,94 @@
+{
+  "DAPPER": [
+    "B. H. Sigelman et al., “Dapper, a large-scale distributed systems tracing infrastructure,” Google, technical report, 2010.",
+    "https://research.google/pubs/dapper-a-large-scale-distributed-systems-tracing-infrastructure/"
+  ],
+  "TRACE": [
+    "W3C, “Trace Context,” W3C Recommendation, Nov. 23, 2021.",
+    "https://www.w3.org/TR/trace-context-1/"
+  ],
+  "OTEL": [
+    "OpenTelemetry Authors, “Overview,” OpenTelemetry Specification, accessed Nov. 3, 2026.",
+    "https://opentelemetry.io/docs/specs/otel/overview/"
+  ],
+  "MICRORCA": [
+    "L. Wu, J. Tordsson, E. Elmroth, and O. Kao, “MicroRCA: Root cause localization of performance issues in microservices,” in Proc. IEEE/IFIP NOMS, 2020, pp. 1–9, doi: 10.1109/NOMS47738.2020.9110353.",
+    "https://doi.org/10.1109/NOMS47738.2020.9110353"
+  ],
+  "YRCA": [
+    "J. Soldani, S. Forti, and A. Brogi, “yRCA: An explainable failure root cause analyser,” Science of Computer Programming, vol. 230, Art. no. 102997, 2023, doi: 10.1016/j.scico.2023.102997.",
+    "https://doi.org/10.1016/j.scico.2023.102997"
+  ],
+  "CASCADES": [
+    "J. Soldani, S. Forti, L. Roveroni, and A. Brogi, “Explaining microservices’ cascading failures from their logs,” Software: Practice and Experience, vol. 55, no. 5, pp. 809–828, 2025, doi: 10.1002/spe.3400.",
+    "https://doi.org/10.1002/spe.3400"
+  ],
+  "MICRORANK": [
+    "G. Yu et al., “MicroRank: End-to-end latency issue localization with extended spectrum analysis in microservice environments,” in Proc. The Web Conference, 2021, pp. 3087–3098, doi: 10.1145/3442381.3449905.",
+    "https://doi.org/10.1145/3442381.3449905"
+  ],
+  "XAI": [
+    "P. J. Phillips et al., “Four principles of explainable artificial intelligence,” NISTIR 8312, 2021, doi: 10.6028/NIST.IR.8312.",
+    "https://doi.org/10.6028/NIST.IR.8312"
+  ],
+  "PROV": [
+    "L. Moreau and P. Missier, Eds., “PROV-DM: The PROV data model,” W3C Recommendation, Apr. 30, 2013.",
+    "https://www.w3.org/TR/prov-dm/"
+  ],
+  "IR": [
+    "A. Nelson, S. Rekhi, M. Souppaya, and K. Scarfone, “Incident response recommendations and considerations for cybersecurity risk management: A CSF 2.0 community profile,” NIST SP 800-61 Rev. 3, 2025, doi: 10.6028/NIST.SP.800-61r3.",
+    "https://doi.org/10.6028/NIST.SP.800-61r3"
+  ],
+  "GOV": [
+    "A. Ologun, O. M. Ikeakaonwu, A. F. Ibidunmoye, G. A. Eneano, C. C. Chuwa, and L. O. Kolawole, “AI governance and ethical frameworks for public-sector AI decision systems: An institutional operationalisation model,” AI and Ethics, vol. 6, Art. no. 294, 2026, doi: 10.1007/s43681-026-01143-x.",
+    "https://doi.org/10.1007/s43681-026-01143-x"
+  ],
+  "TRUST": [
+    "E. I. Igbodor, I. C. Mordi, N. B. Umoru, S. C. Akaelu, S. O. Akaelu, and F. T. Omigbodun, “Trust calibration in human-AI collaborative decision-making: A cross-domain investigation of climate intelligence and organisational governance systems,” Human-Intelligent Systems Integration, 2026, doi: 10.1007/s42454-026-00111-4.",
+    "https://doi.org/10.1007/s42454-026-00111-4"
+  ],
+  "SHA": [
+    "National Institute of Standards and Technology, “Secure Hash Standard,” FIPS PUB 180-4, Aug. 2015, doi: 10.6028/NIST.FIPS.180-4.",
+    "https://doi.org/10.6028/NIST.FIPS.180-4"
+  ],
+  "DSS": [
+    "National Institute of Standards and Technology, “Digital Signature Standard,” FIPS PUB 186-5, Feb. 2023, doi: 10.6028/NIST.FIPS.186-5.",
+    "https://doi.org/10.6028/NIST.FIPS.186-5"
+  ],
+  "JCS": [
+    "A. Rundgren, B. Jordan, and S. Erdtman, “JSON Canonicalization Scheme (JCS),” RFC 8785, Jun. 2020, doi: 10.17487/RFC8785.",
+    "https://www.rfc-editor.org/rfc/rfc8785.html"
+  ],
+  "EDDSA": [
+    "S. Josefsson and I. Liusvaara, “Edwards-Curve Digital Signature Algorithm (EdDSA),” RFC 8032, Jan. 2017, doi: 10.17487/RFC8032.",
+    "https://www.rfc-editor.org/rfc/rfc8032.html"
+  ],
+  "CT": [
+    "B. Laurie, E. Messeri, and R. Stradling, “Certificate Transparency Version 2.0,” RFC 9162, Dec. 2021, doi: 10.17487/RFC9162.",
+    "https://www.rfc-editor.org/rfc/rfc9162.html"
+  ],
+  "SELECTIVE": [
+    "R. El-Yaniv and Y. Wiener, “On the foundations of noise-free selective classification,” Journal of Machine Learning Research, vol. 11, pp. 1605–1641, 2010.",
+    "https://jmlr.org/papers/v11/el-yaniv10a.html"
+  ],
+  "CLASSIFY": [
+    "Y. Geifman and R. El-Yaniv, “Selective classification for deep neural networks,” in Advances in Neural Information Processing Systems, vol. 30, 2017.",
+    "https://papers.nips.cc/paper_files/paper/2017/hash/4a8423d5e91fda00bb7e46540e2b0cf1-Abstract.html"
+  ],
+  "SELECTIVENET": [
+    "Y. Geifman and R. El-Yaniv, “SelectiveNet: A deep neural network with an integrated reject option,” in Proc. 36th Int. Conf. Machine Learning, PMLR, vol. 97, 2019, pp. 2151–2159.",
+    "https://proceedings.mlr.press/v97/geifman19a.html"
+  ],
+  "BENCH": [
+    "Y. Gan et al., “An open-source benchmark suite for microservices and their hardware-software implications for cloud & edge systems,” in Proc. ASPLOS, 2019, pp. 3–18, doi: 10.1145/3297858.3304013.",
+    "https://doi.org/10.1145/3297858.3304013"
+  ],
+  "BOOT": [
+    "B. Efron, “Bootstrap methods: Another look at the jackknife,” The Annals of Statistics, vol. 7, no. 1, pp. 1–26, 1979, doi: 10.1214/aos/1176344552.",
+    "https://doi.org/10.1214/aos/1176344552"
+  ],
+  "RMF": [
+    "National Institute of Standards and Technology, “Artificial Intelligence Risk Management Framework (AI RMF 1.0),” NIST AI 100-1, Jan. 2023, doi: 10.6028/NIST.AI.100-1.",
+    "https://doi.org/10.6028/NIST.AI.100-1"
+  ]
+}

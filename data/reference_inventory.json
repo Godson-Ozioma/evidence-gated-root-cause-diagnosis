@@ -1,0 +1,1123 @@
+{
+  "active_references": [
+    {
+      "number": 1,
+      "key": "DAPPER",
+      "citation": "B. H. Sigelman et al., “Dapper, a large-scale distributed systems tracing infrastructure,” Google, technical report, 2010.",
+      "url": "https://research.google/pubs/dapper-a-large-scale-distributed-systems-tracing-infrastructure/"
+    },
+    {
+      "number": 2,
+      "key": "TRACE",
+      "citation": "W3C, “Trace Context,” W3C Recommendation, Nov. 23, 2021.",
+      "url": "https://www.w3.org/TR/trace-context-1/"
+    },
+    {
+      "number": 3,
+      "key": "OTEL",
+      "citation": "OpenTelemetry Authors, “Overview,” OpenTelemetry Specification, accessed Nov. 3, 2026.",
+      "url": "https://opentelemetry.io/docs/specs/otel/overview/"
+    },
+    {
+      "number": 4,
+      "key": "MICRORCA",
+      "citation": "L. Wu, J. Tordsson, E. Elmroth, and O. Kao, “MicroRCA: Root cause localization of performance issues in microservices,” in Proc. IEEE/IFIP NOMS, 2020, pp. 1–9, doi: 10.1109/NOMS47738.2020.9110353.",
+      "url": "https://doi.org/10.1109/NOMS47738.2020.9110353"
+    },
+    {
+      "number": 5,
+      "key": "YRCA",
+      "citation": "J. Soldani, S. Forti, and A. Brogi, “yRCA: An explainable failure root cause analyser,” Science of Computer Programming, vol. 230, Art. no. 102997, 2023, doi: 10.1016/j.scico.2023.102997.",
+      "url": "https://doi.org/10.1016/j.scico.2023.102997"
+    },
+    {
+      "number": 6,
+      "key": "CASCADES",
+      "citation": "J. Soldani, S. Forti, L. Roveroni, and A. Brogi, “Explaining microservices’ cascading failures from their logs,” Software: Practice and Experience, vol. 55, no. 5, pp. 809–828, 2025, doi: 10.1002/spe.3400.",
+      "url": "https://doi.org/10.1002/spe.3400"
+    },
+    {
+      "number": 7,
+      "key": "MICRORANK",
+      "citation": "G. Yu et al., “MicroRank: End-to-end latency issue localization with extended spectrum analysis in microservice environments,” in Proc. The Web Conference, 2021, pp. 3087–3098, doi: 10.1145/3442381.3449905.",
+      "url": "https://doi.org/10.1145/3442381.3449905"
+    },
+    {
+      "number": 8,
+      "key": "XAI",
+      "citation": "P. J. Phillips et al., “Four principles of explainable artificial intelligence,” NISTIR 8312, 2021, doi: 10.6028/NIST.IR.8312.",
+      "url": "https://doi.org/10.6028/NIST.IR.8312"
+    },
+    {
+      "number": 9,
+      "key": "PROV",
+      "citation": "L. Moreau and P. Missier, Eds., “PROV-DM: The PROV data model,” W3C Recommendation, Apr. 30, 2013.",
+      "url": "https://www.w3.org/TR/prov-dm/"
+    },
+    {
+      "number": 10,
+      "key": "IR",
+      "citation": "A. Nelson, S. Rekhi, M. Souppaya, and K. Scarfone, “Incident response recommendations and considerations for cybersecurity risk management: A CSF 2.0 community profile,” NIST SP 800-61 Rev. 3, 2025, doi: 10.6028/NIST.SP.800-61r3.",
+      "url": "https://doi.org/10.6028/NIST.SP.800-61r3"
+    },
+    {
+      "number": 11,
+      "key": "GOV",
+      "citation": "A. Ologun, O. M. Ikeakaonwu, A. F. Ibidunmoye, G. A. Eneano, C. C. Chuwa, and L. O. Kolawole, “AI governance and ethical frameworks for public-sector AI decision systems: An institutional operationalisation model,” AI and Ethics, vol. 6, Art. no. 294, 2026, doi: 10.1007/s43681-026-01143-x.",
+      "url": "https://doi.org/10.1007/s43681-026-01143-x"
+    },
+    {
+      "number": 12,
+      "key": "TRUST",
+      "citation": "E. I. Igbodor, I. C. Mordi, N. B. Umoru, S. C. Akaelu, S. O. Akaelu, and F. T. Omigbodun, “Trust calibration in human-AI collaborative decision-making: A cross-domain investigation of climate intelligence and organisational governance systems,” Human-Intelligent Systems Integration, 2026, doi: 10.1007/s42454-026-00111-4.",
+      "url": "https://doi.org/10.1007/s42454-026-00111-4"
+    },
+    {
+      "number": 13,
+      "key": "SHA",
+      "citation": "National Institute of Standards and Technology, “Secure Hash Standard,” FIPS PUB 180-4, Aug. 2015, doi: 10.6028/NIST.FIPS.180-4.",
+      "url": "https://doi.org/10.6028/NIST.FIPS.180-4"
+    },
+    {
+      "number": 14,
+      "key": "DSS",
+      "citation": "National Institute of Standards and Technology, “Digital Signature Standard,” FIPS PUB 186-5, Feb. 2023, doi: 10.6028/NIST.FIPS.186-5.",
+      "url": "https://doi.org/10.6028/NIST.FIPS.186-5"
+    },
+    {
+      "number": 15,
+      "key": "JCS",
+      "citation": "A. Rundgren, B. Jordan, and S. Erdtman, “JSON Canonicalization Scheme (JCS),” RFC 8785, Jun. 2020, doi: 10.17487/RFC8785.",
+      "url": "https://www.rfc-editor.org/rfc/rfc8785.html"
+    },
+    {
+      "number": 16,
+      "key": "EDDSA",
+      "citation": "S. Josefsson and I. Liusvaara, “Edwards-Curve Digital Signature Algorithm (EdDSA),” RFC 8032, Jan. 2017, doi: 10.17487/RFC8032.",
+      "url": "https://www.rfc-editor.org/rfc/rfc8032.html"
+    },
+    {
+      "number": 17,
+      "key": "CT",
+      "citation": "B. Laurie, E. Messeri, and R. Stradling, “Certificate Transparency Version 2.0,” RFC 9162, Dec. 2021, doi: 10.17487/RFC9162.",
+      "url": "https://www.rfc-editor.org/rfc/rfc9162.html"
+    },
+    {
+      "number": 18,
+      "key": "SELECTIVE",
+      "citation": "R. El-Yaniv and Y. Wiener, “On the foundations of noise-free selective classification,” Journal of Machine Learning Research, vol. 11, pp. 1605–1641, 2010.",
+      "url": "https://jmlr.org/papers/v11/el-yaniv10a.html"
+    },
+    {
+      "number": 19,
+      "key": "CLASSIFY",
+      "citation": "Y. Geifman and R. El-Yaniv, “Selective classification for deep neural networks,” in Advances in Neural Information Processing Systems, vol. 30, 2017.",
+      "url": "https://papers.nips.cc/paper_files/paper/2017/hash/4a8423d5e91fda00bb7e46540e2b0cf1-Abstract.html"
+    },
+    {
+      "number": 20,
+      "key": "SELECTIVENET",
+      "citation": "Y. Geifman and R. El-Yaniv, “SelectiveNet: A deep neural network with an integrated reject option,” in Proc. 36th Int. Conf. Machine Learning, PMLR, vol. 97, 2019, pp. 2151–2159.",
+      "url": "https://proceedings.mlr.press/v97/geifman19a.html"
+    },
+    {
+      "number": 21,
+      "key": "BENCH",
+      "citation": "Y. Gan et al., “An open-source benchmark suite for microservices and their hardware-software implications for cloud & edge systems,” in Proc. ASPLOS, 2019, pp. 3–18, doi: 10.1145/3297858.3304013.",
+      "url": "https://doi.org/10.1145/3297858.3304013"
+    },
+    {
+      "number": 22,
+      "key": "BOOT",
+      "citation": "B. Efron, “Bootstrap methods: Another look at the jackknife,” The Annals of Statistics, vol. 7, no. 1, pp. 1–26, 1979, doi: 10.1214/aos/1176344552.",
+      "url": "https://doi.org/10.1214/aos/1176344552"
+    },
+    {
+      "number": 23,
+      "key": "RMF",
+      "citation": "National Institute of Standards and Technology, “Artificial Intelligence Risk Management Framework (AI RMF 1.0),” NIST AI 100-1, Jan. 2023, doi: 10.6028/NIST.AI.100-1.",
+      "url": "https://doi.org/10.6028/NIST.AI.100-1"
+    }
+  ],
+  "supplied_references": [
+    {
+      "supplied_number": 1,
+      "reference_number": 24,
+      "title": "Strategic tax architecture and foreign direct investment resilience in resource-rich Nigeria",
+      "citation": "A. A. Adefisan-Williams et al., “Strategic tax architecture and foreign direct investment resilience in resource-rich Nigeria,” SSRN [Preprint], 2026.",
+      "url": "https://ssrn.com/abstract=7051356",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "1. Adefisan-Williams, A.A. *et al.* (2026) ‘Strategic tax architecture and foreign direct investment resilience in resource-rich Nigeria’, *SSRN* [Preprint]. Available at: [https://ssrn.com/abstract=7051356](https://ssrn.com/abstract=7051356). The SSRN record places Adefisan-Williams first. [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7051356\\&utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 2,
+      "reference_number": 25,
+      "title": "The impact of tertiary education tax on foreign direct investment in Nigeria: Evidence from long-run time series analysis",
+      "citation": "A. A. Adefisan-Williams, S. A. Adeniyi, O. M. Ikeakaonwu, D. O. Olokpo and E. I. Igbodor, “The impact of tertiary education tax on foreign direct investment in Nigeria: Evidence from long-run time series analysis,” International Journal of Research in Management, vol. 16, no. 4, pp. 1–16, 2026.",
+      "url": "https://zenodo.org/records/21413685",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "2. Adefisan-Williams, A.A., Adeniyi, S.A., Ikeakaonwu, O.M., Olokpo, D.O. and Igbodor, E.I. (2026) ‘The impact of tertiary education tax on foreign direct investment in Nigeria: Evidence from long-run time series analysis’, *International Journal of Research in Management*, 16(4), pp. 1–16. Repository record: [https://zenodo.org/records/21413685](https://zenodo.org/records/21413685?utm_source=chatgpt.com). [Zenodo](https://zenodo.org/records/21413685?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 3,
+      "reference_number": 26,
+      "title": "Synthetic data augmentation for consumer choice models: Utility, privacy, and value",
+      "citation": "S. A. Adeniyi, A. A. Adefisan-Williams, R. A. Olawale, S. C. Akaelu and S. O. Akaelu, “Synthetic data augmentation for consumer choice models: Utility, privacy, and value,” Strategic Business Research, vol. 2, no. 1, Art. no. 100277, 2026.",
+      "url": "https://doi.org/10.1016/j.sbr.2026.100277",
+      "status": "Supplied record; not independently verified",
+      "scope": "Adjacent systems or methods; not RCA validation",
+      "note": "",
+      "original_entry": "3. Adeniyi, S.A., Adefisan-Williams, A.A., Olawale, R.A., Akaelu, S.C. and Akaelu, S.O. (2026) ‘Synthetic data augmentation for consumer choice models: Utility, privacy, and value’, *Strategic Business Research*, 2(1), article 100277. [https://doi.org/10.1016/j.sbr.2026.100277](https://doi.org/10.1016/j.sbr.2026.100277). [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S3051064326002281?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 4,
+      "reference_number": 27,
+      "title": "Tax policy predictability and foreign investment resilience in resource-rich Africa",
+      "citation": "S. A. Adeniyi, A. A. Adefisan-Williams, R. Olawale, S. C. Akaelu and S. O. Akaelu, “Tax policy predictability and foreign investment resilience in resource-rich Africa,” SSRN [Preprint], 2026.",
+      "url": "https://ssrn.com/abstract=7176301",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "4. Adeniyi, S.A., Adefisan-Williams, A.A., Olawale, R., Akaelu, S.C. and Akaelu, S.O. (2026) ‘Tax policy predictability and foreign investment resilience in resource-rich Africa’, *SSRN* [Preprint]. Available at: [https://ssrn.com/abstract=7176301](https://ssrn.com/abstract=7176301). [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7176301\\&utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 5,
+      "reference_number": 28,
+      "title": "Digital twin-enabled predictive maintenance for climate-smart food dehydration in tropical climates",
+      "citation": "S. A. Adeniyi, A. A. Adefisan-Williams, R. A. Olawale, D. O. Olokpo and E. I. Igbodor, “Digital twin-enabled predictive maintenance for climate-smart food dehydration in tropical climates,” International Journal of Research in Management Fields, vol. 16, no. 4, pp. 1–9, 2026.",
+      "url": "",
+      "status": "Supplied record; not independently verified",
+      "scope": "Adjacent systems or methods; not RCA validation",
+      "note": "Publication details supplied by you; publisher/DOI link unverified.",
+      "original_entry": "5. Adeniyi, S.A., Adefisan-Williams, A.A., Olawale, R.A., Olokpo, D.O. and Igbodor, E.I. (2026) ‘Digital twin-enabled predictive maintenance for climate-smart food dehydration in tropical climates’, *International Journal of Research in Management Fields*, 16(4), pp. 1–9. **Publication details supplied by you; publisher/DOI link unverified.**"
+    },
+    {
+      "supplied_number": 6,
+      "reference_number": 29,
+      "title": "Advancing urban governance through integrated BIM–DT–CIM models",
+      "citation": "E. A. Adeola et al., “Advancing urban governance through integrated BIM–DT–CIM models,” World Journal of Biology Pharmacy and Health Sciences, vol. 23, no. 3, pp. 500–508, 2025.",
+      "url": "https://doi.org/10.30574/wjbphs.2025.23.3.0875",
+      "status": "Supplied record; not independently verified",
+      "scope": "Potential governance context; not RCA evidence",
+      "note": "",
+      "original_entry": "6. Adeola, E.A. *et al.* (2025) ‘Advancing urban governance through integrated BIM–DT–CIM models’, *World Journal of Biology Pharmacy and Health Sciences*, 23(3), pp. 500–508. [https://doi.org/10.30574/wjbphs.2025.23.3.0875](https://doi.org/10.30574/wjbphs.2025.23.3.0875). [wjbphs.com](https://wjbphs.com/content/advancing-urban-governance-through-integrated-bim-dt-cim-models?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 7,
+      "reference_number": 30,
+      "title": "AI-powered predictive control in digital twin HVAC systems",
+      "citation": "E. A. Adeola et al., “AI-powered predictive control in digital twin HVAC systems,” International Journal of Research Publication and Reviews, vol. 6, no. 9, pp. 5368–5375, 2025.",
+      "url": "https://ijrpr.com/uploads/V6ISSUE9/IJRPR53234.pdf",
+      "status": "Supplied record; not independently verified",
+      "scope": "Adjacent systems or methods; not RCA validation",
+      "note": "",
+      "original_entry": "7. Adeola, E.A. *et al.* (2025) ‘AI-powered predictive control in digital twin HVAC systems’, *International Journal of Research Publication and Reviews*, 6(9), pp. 5368–5375. Available at: [https://ijrpr.com/uploads/V6ISSUE9/IJRPR53234.pdf](https://ijrpr.com/uploads/V6ISSUE9/IJRPR53234.pdf?utm_source=chatgpt.com). [ijrpr.com](https://ijrpr.com/uploads/V6ISSUE9/IJRPR53234.pdf?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 8,
+      "reference_number": 31,
+      "title": "Integrating AI and encryption to safeguard digital assets globally",
+      "citation": "E. A. Adeola et al., “Integrating AI and encryption to safeguard digital assets globally,” International Journal of Innovative Science and Research Technology, vol. 10, no. 9, pp. 2337–2345, 2025.",
+      "url": "https://doi.org/10.38124/ijisrt/25sep1242",
+      "status": "Supplied record; not independently verified",
+      "scope": "Potential governance context; not RCA evidence",
+      "note": "",
+      "original_entry": "8. Adeola, E.A. *et al.* (2025) ‘Integrating AI and encryption to safeguard digital assets globally’, *International Journal of Innovative Science and Research Technology*, 10(9), pp. 2337–2345. [https://doi.org/10.38124/ijisrt/25sep1242](https://doi.org/10.38124/ijisrt/25sep1242). [ijisrt.com](https://www.ijisrt.com/integrating-ai-and-encryption-to-safeguard-digital-assets-globally?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 9,
+      "reference_number": 32,
+      "title": "Comparing green capability performance associations through a reproducible score level simulation",
+      "citation": "S. C. Akaelu et al., “Comparing green capability performance associations through a reproducible score level simulation,” Strategic Business Research, 2026.",
+      "url": "",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "DOI, article number and complete authorship unverified.",
+      "original_entry": "9. Akaelu, S.C. *et al.* (2026) ‘Comparing green capability performance associations through a reproducible score level simulation’, *Strategic Business Research*. **DOI, article number and complete authorship unverified.**"
+    },
+    {
+      "supplied_number": 10,
+      "reference_number": 33,
+      "title": "AI capability, adoption, dynamic renewal and SME performance: An exploratory secondary reanalysis",
+      "citation": "S. O. Akaelu, E. I. Igbodor, D. O. Olokpo, F. T. Omigbodun, A. L. Ashaye and O. L. Lawal, “AI capability, adoption, dynamic renewal and SME performance: An exploratory secondary reanalysis,” Strategic Business Research, vol. 2, no. 1, Art. no. 100297, 2026.",
+      "url": "https://doi.org/10.1016/j.sbr.2026.100297",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "10. Akaelu, S.O., Igbodor, E.I., Olokpo, D.O., Omigbodun, F.T., Ashaye, A.L. and Lawal, O.L. (2026) ‘AI capability, adoption, dynamic renewal and SME performance: An exploratory secondary reanalysis’, *Strategic Business Research*, 2(1), article 100297. [https://doi.org/10.1016/j.sbr.2026.100297](https://doi.org/10.1016/j.sbr.2026.100297). [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S3051064326002487?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 11,
+      "reference_number": 34,
+      "title": "Humidity-aware agro-waste biochar–MOF adsorbents for solar-regenerated CO₂ capture: A mechanistic circular-economy design framework",
+      "citation": "S. O. Akaelu et al., “Humidity-aware agro-waste biochar–MOF adsorbents for solar-regenerated CO₂ capture: A mechanistic circular-economy design framework,” Journal of Environmental Chemical Engineering, vol. 14, no. 5, Art. no. 124636, 2026.",
+      "url": "https://doi.org/10.1016/j.jece.2026.124636",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "DOI located in the ResearchGate record; publisher metadata should be checked before submission.",
+      "original_entry": "11. Akaelu, S.O. *et al.* (2026) ‘Humidity-aware agro-waste biochar–MOF adsorbents for solar-regenerated CO₂ capture: A mechanistic circular-economy design framework’, *Journal of Environmental Chemical Engineering*, 14(5), article 124636. [https://doi.org/10.1016/j.jece.2026.124636](https://doi.org/10.1016/j.jece.2026.124636). **DOI located in the ResearchGate record; publisher metadata should be checked before submission.** The closely matching AI-guided preprint is not repeated separately. [Request PDF](https://www.researchgate.net/publication/412296571_Humidity-Aware_Agro-Waste_Biochar-MOF_Adsorbents_for_Solar-Regenerated_CO_Capture_A_Mechanistic_Circular-Economy_Design_Framework?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 12,
+      "reference_number": 35,
+      "title": "Integrating health into techno-economic assessment for solar-powered hospital water systems",
+      "citation": "S. O. Akaelu et al., “Integrating health into techno-economic assessment for solar-powered hospital water systems,” International Journal of Energy and Water Resources, vol. 10, no. 2, Art. no. 85, 2026.",
+      "url": "https://doi.org/10.1007/s42108-026-00508-6",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "12. Akaelu, S.O. *et al.* (2026) ‘Integrating health into techno-economic assessment for solar-powered hospital water systems’, *International Journal of Energy and Water Resources*, 10(2), article 85. [https://doi.org/10.1007/s42108-026-00508-6](https://doi.org/10.1007/s42108-026-00508-6). [eurekamag.com](https://eurekamag.com/research/107/649/107649409.php?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 13,
+      "reference_number": 36,
+      "title": "The hidden health-economic costs of failing water-energy infrastructure",
+      "citation": "S. O. Akaelu et al., “The hidden health-economic costs of failing water-energy infrastructure,” International Journal of Energy and Water Resources, vol. 10, no. 3, Art. no. 122, 2026.",
+      "url": "https://doi.org/10.1007/s42108-026-00541-5",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "13. Akaelu, S.O. *et al.* (2026) ‘The hidden health-economic costs of failing water-energy infrastructure’, *International Journal of Energy and Water Resources*, 10(3), article 122. [https://doi.org/10.1007/s42108-026-00541-5](https://doi.org/10.1007/s42108-026-00541-5). [eurekamag.com](https://eurekamag.com/research/110/450/110450694.php?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 14,
+      "reference_number": 37,
+      "title": "Balancing AI efficiency and ethics for long-term business sustainability",
+      "citation": "O. O. Akinola et al., “Balancing AI efficiency and ethics for long-term business sustainability,” International Journal of Research in Engineering, Science and Management, vol. 8, no. 8, pp. 61–69, 2025.",
+      "url": "https://journal.ijresm.com/index.php/ijresm/article/view/3340",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "14. Akinola, O.O. *et al.* (2025) ‘Balancing AI efficiency and ethics for long-term business sustainability’, *International Journal of Research in Engineering, Science and Management*, 8(8), pp. 61–69. Available at: [https://journal.ijresm.com/index.php/ijresm/article/view/3340](https://journal.ijresm.com/index.php/ijresm/article/view/3340?utm_source=chatgpt.com). [journal.ijresm.com](https://journal.ijresm.com/index.php/ijresm/article/view/3340?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 15,
+      "reference_number": 38,
+      "title": "Extractive mechanisms in democratic media: Platform capitalism and the paradox of TikTok live streaming infrastructure",
+      "citation": "O. O. Akinola, S. A. Palmer, N. B. Umoru and I. C. Mordi, “Extractive mechanisms in democratic media: Platform capitalism and the paradox of TikTok live streaming infrastructure,” American Journal of Sustainable Cities and Society, vol. 16, no. 1, 2026.",
+      "url": "https://zenodo.org/records/18806657",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "15. Akinola, O.O., Palmer, S.A., Umoru, N.B. and Mordi, I.C. (2026) ‘Extractive mechanisms in democratic media: Platform capitalism and the paradox of TikTok live streaming infrastructure’, *American Journal of Sustainable Cities and Society*, 16(1). Repository record: [https://zenodo.org/records/18806657](https://zenodo.org/records/18806657?utm_source=chatgpt.com). [Zenodo](https://zenodo.org/records/18806657?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 16,
+      "reference_number": 39,
+      "title": "Regulatory architectures for autonomous AI agents: A comparative jurisprudential analysis of UK and EU frameworks",
+      "citation": "O. O. Akinola, S. A. Palmer, N. B. Umoru and I. C. Mordi, “Regulatory architectures for autonomous AI agents: A comparative jurisprudential analysis of UK and EU frameworks,” American Journal of Sustainable Cities and Society, vol. 16, no. 1, 2026.",
+      "url": "https://zenodo.org/records/18806260",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "16. Akinola, O.O., Palmer, S.A., Umoru, N.B. and Mordi, I.C. (2026) ‘Regulatory architectures for autonomous AI agents: A comparative jurisprudential analysis of UK and EU frameworks’, *American Journal of Sustainable Cities and Society*, 16(1). Repository record: [https://zenodo.org/records/18806260](https://zenodo.org/records/18806260?utm_source=chatgpt.com). [Zenodo](https://zenodo.org/records/18806260?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 17,
+      "reference_number": 40,
+      "title": "Bias, transparency and accountability in algorithmic human resource management",
+      "citation": "A. L. Ashaye, O. F. Orisakahunsi, O. L. Lawal, S. A. Adeniyi, O. M. Ikeakaonwu and P. K. Ishaku, “Bias, transparency and accountability in algorithmic human resource management,” Strategic Business Research, Art. no. 100308, 2026.",
+      "url": "https://www.sciencedirect.com/science/article/pii/S3051064326002591",
+      "status": "Supplied record; not independently verified",
+      "scope": "Potential governance context; not RCA evidence",
+      "note": "",
+      "original_entry": "17. Ashaye, A.L., Orisakahunsi, O.F., Lawal, O.L., Adeniyi, S.A., Ikeakaonwu, O.M. and Ishaku, P.K. (2026) ‘Bias, transparency and accountability in algorithmic human resource management’, *Strategic Business Research*, article 100308. Available at: [https://www.sciencedirect.com/science/article/pii/S3051064326002591](https://www.sciencedirect.com/science/article/pii/S3051064326002591?utm_source=chatgpt.com). [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S3051064326002591?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 18,
+      "reference_number": 41,
+      "title": "Trust-constrained dynamic pricing for fair personalisation and sustainable long-term customer value creation",
+      "citation": "A. L. Ashaye et al., “Trust-constrained dynamic pricing for fair personalisation and sustainable long-term customer value creation,” SSRN [Preprint], 2026.",
+      "url": "https://ssrn.com/abstract=7272453",
+      "status": "Supplied record; not independently verified",
+      "scope": "Potential governance context; not RCA evidence",
+      "note": "",
+      "original_entry": "18. Ashaye, A.L. *et al.* (2026) ‘Trust-constrained dynamic pricing for fair personalisation and sustainable long-term customer value creation’, *SSRN* [Preprint]. Available at: [https://ssrn.com/abstract=7272453](https://ssrn.com/abstract=7272453). [papers.ssrn.com](https://papers.ssrn.com/sol3/Delivery.cfm/b5e4aee4-e59d-4090-a5bc-04dc25620605-MECA.pdf?abstractid=7272453\\&mirid=1\\&utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 19,
+      "reference_number": 42,
+      "title": "When smart prices feel unfair: Rebuilding consumer trust in algorithmic markets",
+      "citation": "A. L. Ashaye et al., “When smart prices feel unfair: Rebuilding consumer trust in algorithmic markets,” SSRN [Preprint], 2026.",
+      "url": "https://ssrn.com/abstract=7228537",
+      "status": "Supplied record; not independently verified",
+      "scope": "Potential governance context; not RCA evidence",
+      "note": "",
+      "original_entry": "19. Ashaye, A.L. *et al.* (2026) ‘When smart prices feel unfair: Rebuilding consumer trust in algorithmic markets’, *SSRN* [Preprint]. Available at: [https://ssrn.com/abstract=7228537](https://ssrn.com/abstract=7228537). [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7228537\\&utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 20,
+      "reference_number": 43,
+      "title": "Solar photocatalysis for emerging pollutant removal in water: Field-scale irradiance–kinetics analysis",
+      "citation": "C. C. Chuwa, L. O. Kolawole, G. A. Eneano, O. M. Ikeakaonwu, O. B. Olasilola, A. F. Ibidunmoye and F. T. Omigbodun, “Solar photocatalysis for emerging pollutant removal in water: Field-scale irradiance–kinetics analysis,” International Journal of Energy and Water Resources, 10, Art. no. 97, 2026.",
+      "url": "https://doi.org/10.1007/s42108-026-00521-9",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "20. Chuwa, C.C., Kolawole, L.O., Eneano, G.A., Ikeakaonwu, O.M., Olasilola, O.B., Ibidunmoye, A.F. and Omigbodun, F.T. (2026) ‘Solar photocatalysis for emerging pollutant removal in water: Field-scale irradiance–kinetics analysis’, *International Journal of Energy and Water Resources*, 10, article 97. [https://doi.org/10.1007/s42108-026-00521-9](https://doi.org/10.1007/s42108-026-00521-9). [Springer Nature Link](https://link.springer.com/article/10.1007/s42108-026-00521-9?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 21,
+      "reference_number": 44,
+      "title": "Embedding safeguarding in integrated care for older adults",
+      "citation": "I. Elemure et al., “Embedding safeguarding in integrated care for older adults,” International Journal of Science and Research Archive, vol. 16, no. 3, pp. 955–963, 2025.",
+      "url": "https://ijsra.net/sites/default/files/fulltext_pdf/IJSRA-2025-2655.pdf",
+      "status": "Supplied record; not independently verified",
+      "scope": "Potential governance context; not RCA evidence",
+      "note": "",
+      "original_entry": "21. Elemure, I. *et al.* (2025) ‘Embedding safeguarding in integrated care for older adults’, *International Journal of Science and Research Archive*, 16(3), pp. 955–963. Available at: [https://ijsra.net/sites/default/files/fulltext_pdf/IJSRA-2025-2655.pdf](https://ijsra.net/sites/default/files/fulltext_pdf/IJSRA-2025-2655.pdf?utm_source=chatgpt.com). [ijsra.net](https://ijsra.net/sites/default/files/fulltext_pdf/IJSRA-2025-2655.pdf?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 22,
+      "reference_number": 45,
+      "title": "Integrating IoT and digital twins to transform urban governance",
+      "citation": "I. Elemure et al., “Integrating IoT and digital twins to transform urban governance,” International Journal of Progressive Research in Science and Engineering, 2025.",
+      "url": "https://journal.ijprse.com/index.php/ijprse/article/view/1228",
+      "status": "Supplied record; not independently verified",
+      "scope": "Potential governance context; not RCA evidence",
+      "note": "The title and journal are located, but the conflicting author order in your records still requires checking.",
+      "original_entry": "22. Elemure, I. *et al.* (2025) ‘Integrating IoT and digital twins to transform urban governance’, *International Journal of Progressive Research in Science and Engineering*. Available at: [https://journal.ijprse.com/index.php/ijprse/article/view/1228](https://journal.ijprse.com/index.php/ijprse/article/view/1228?utm_source=chatgpt.com). **The title and journal are located, but the conflicting author order in your records still requires checking.** [journal.ijprse.com](https://journal.ijprse.com/index.php/ijprse/article/view/1228?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 23,
+      "reference_number": 46,
+      "title": "Life-course impact of trauma on stress biology",
+      "citation": "I. Elemure et al., “Life-course impact of trauma on stress biology,” International Journal of Innovative Science and Research Technology, vol. 10, no. 9, 2025.",
+      "url": "https://doi.org/10.38124/ijisrt/25sep910",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "23. Elemure, I. *et al.* (2025) ‘Life-course impact of trauma on stress biology’, *International Journal of Innovative Science and Research Technology*, 10(9). [https://doi.org/10.38124/ijisrt/25sep910](https://doi.org/10.38124/ijisrt/25sep910). [ijisrt.com](https://www.ijisrt.com/lifecourse-impact-of-trauma-on-stress-biology?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 24,
+      "reference_number": 47,
+      "title": "Resilient supply chains and sustainability for digital transformation in remote work",
+      "citation": "I. Elemure et al., “Resilient supply chains and sustainability for digital transformation in remote work,” International Journal of Science and Research Archive, 2025.",
+      "url": "",
+      "status": "Supplied record; not independently verified",
+      "scope": "Adjacent systems or methods; not RCA validation",
+      "note": "DOI, volume and pagination unverified.",
+      "original_entry": "24. Elemure, I. *et al.* (2025) ‘Resilient supply chains and sustainability for digital transformation in remote work’, *International Journal of Science and Research Archive*. **DOI, volume and pagination unverified.**"
+    },
+    {
+      "supplied_number": 25,
+      "reference_number": 48,
+      "title": "Transforming resilience with predictive digital twin technologies",
+      "citation": "I. Elemure, E. A. Adeola, A. G. Ologun, O. O. Odesanya, P. T. Oluwasola and O. D. Salau, “Transforming resilience with predictive digital twin technologies,” World Journal of Biology Pharmacy and Health Sciences, vol. 23, no. 3, pp. 450–458, 2025.",
+      "url": "https://doi.org/10.30574/wjbphs.2025.23.3.0850",
+      "status": "Supplied record; not independently verified",
+      "scope": "Adjacent systems or methods; not RCA validation",
+      "note": "",
+      "original_entry": "25. Elemure, I., Adeola, E.A., Ologun, A.G., Odesanya, O.O., Oluwasola, P.T. and Salau, O.D. (2025) ‘Transforming resilience with predictive digital twin technologies’, *World Journal of Biology Pharmacy and Health Sciences*, 23(3), pp. 450–458. [https://doi.org/10.30574/wjbphs.2025.23.3.0850](https://doi.org/10.30574/wjbphs.2025.23.3.0850). [wjbphs.com](https://wjbphs.com/content/transforming-resilience-predictive-digital-twin-technologies?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 26,
+      "reference_number": 49,
+      "title": "Analysis of digital twin-enabled lean-green manufacturing for sustainable industrial systems",
+      "citation": "I. E. Elemure, A. G. Ologun, L. O. Kolawole and C. C. Chuwa, “Analysis of digital twin-enabled lean-green manufacturing for sustainable industrial systems,” Zenodo [Repository record], 2026.",
+      "url": "https://zenodo.org/records/19206423",
+      "status": "Supplied record; not independently verified",
+      "scope": "Adjacent systems or methods; not RCA validation",
+      "note": "",
+      "original_entry": "26. Elemure, I.E., Ologun, A.G., Kolawole, L.O. and Chuwa, C.C. (2026) ‘Analysis of digital twin-enabled lean-green manufacturing for sustainable industrial systems’, *Zenodo* [Repository record]. Available at: [https://zenodo.org/records/19206423](https://zenodo.org/records/19206423?utm_source=chatgpt.com). [Zenodo](https://zenodo.org/records/19206423?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 27,
+      "reference_number": 50,
+      "title": "Cyber-physical lean-green systems: Integrating IoT and digital twins for sustainable production",
+      "citation": "I. E. Elemure, A. G. Ologun, L. O. Kolawole and C. C. Chuwa, “Cyber-physical lean-green systems: Integrating IoT and digital twins for sustainable production,” [publication venue not verified], 2026.",
+      "url": "https://www.researchgate.net/publication/403143828_Cyber-Physical_Lean-Green_Systems_Integrating_IoT_and_Digital_Twins_for_Sustainable_Production",
+      "status": "Supplied record; not independently verified",
+      "scope": "Adjacent systems or methods; not RCA validation",
+      "note": "Journal and DOI unverified.",
+      "original_entry": "27. Elemure, I.E., Ologun, A.G., Kolawole, L.O. and Chuwa, C.C. (2026) ‘Cyber-physical lean-green systems: Integrating IoT and digital twins for sustainable production’. Available at: [ResearchGate publication record](https://www.researchgate.net/publication/403143828_Cyber-Physical_Lean-Green_Systems_Integrating_IoT_and_Digital_Twins_for_Sustainable_Production?utm_source=chatgpt.com). **Journal and DOI unverified.** [Request PDF](https://www.researchgate.net/publication/403143828_Cyber-Physical_Lean-Green_Systems_Integrating_IoT_and_Digital_Twins_for_Sustainable_Production?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 28,
+      "reference_number": 51,
+      "title": "Sustainable supply chain optimisation using lean-green principles: A quantitative and qualitative analysis",
+      "citation": "I. E. Elemure, A. G. Ologun, L. O. Kolawole and C. C. Chuwa, “Sustainable supply chain optimisation using lean-green principles: A quantitative and qualitative analysis,” International Journal of Advanced Scientific and Technical Research, 2026.",
+      "url": "https://doi.org/10.5281/zenodo.19206285",
+      "status": "Supplied record; not independently verified",
+      "scope": "Adjacent systems or methods; not RCA validation",
+      "note": "",
+      "original_entry": "28. Elemure, I.E., Ologun, A.G., Kolawole, L.O. and Chuwa, C.C. (2026) ‘Sustainable supply chain optimisation using lean-green principles: A quantitative and qualitative analysis’, *International Journal of Advanced Scientific and Technical Research*. Repository DOI: [https://doi.org/10.5281/zenodo.19206285](https://doi.org/10.5281/zenodo.19206285). [Zenodo](https://zenodo.org/records/19206285?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 29,
+      "reference_number": 52,
+      "title": "The calculus of control: Metrics, morality, and the machinery of governance in pre-algorithmic optimization systems",
+      "citation": "I. E. Elemure et al., “The calculus of control: Metrics, morality, and the machinery of governance in pre-algorithmic optimization systems,” Research Square [Preprint], 2026.",
+      "url": "https://doi.org/10.21203/rs.3.rs-9087686/v1",
+      "status": "Supplied record; not independently verified",
+      "scope": "Potential governance context; not RCA evidence",
+      "note": "",
+      "original_entry": "29. Elemure, I.E. *et al.* (2026) ‘The calculus of control: Metrics, morality, and the machinery of governance in pre-algorithmic optimization systems’, *Research Square* [Preprint]. [https://doi.org/10.21203/rs.3.rs-9087686/v1](https://doi.org/10.21203/rs.3.rs-9087686/v1). [Sciety](https://sciety.org/articles/activity/10.21203/rs.3.rs-9087686/v1?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 30,
+      "reference_number": 53,
+      "title": "When metrics govern: Pre-algorithmic optimisation and the ethics of artificial intelligence",
+      "citation": "I. E. Elemure et al., “When metrics govern: Pre-algorithmic optimisation and the ethics of artificial intelligence,” Research Square [Preprint], 2026.",
+      "url": "https://doi.org/10.21203/rs.3.rs-8752951/v1",
+      "status": "Supplied record; not independently verified",
+      "scope": "Potential governance context; not RCA evidence",
+      "note": "",
+      "original_entry": "30. Elemure, I.E. *et al.* (2026) ‘When metrics govern: Pre-algorithmic optimisation and the ethics of artificial intelligence’, *Research Square* [Preprint]. [https://doi.org/10.21203/rs.3.rs-8752951/v1](https://doi.org/10.21203/rs.3.rs-8752951/v1). [Sciety](https://sciety.org/articles/activity/10.21203/rs.3.rs-8752951/v1?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 31,
+      "reference_number": 54,
+      "title": "Advanced membrane technologies for drinking-water safety: A biomedical engineering scoping review",
+      "citation": "G. A. Eneano et al., “Advanced membrane technologies for drinking-water safety: A biomedical engineering scoping review,” Sustainable Chemistry One World, Art. no. 100307, 2026.",
+      "url": "https://doi.org/10.1016/j.scowo.2026.100307",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "31. Eneano, G.A. *et al.* (2026) ‘Advanced membrane technologies for drinking-water safety: A biomedical engineering scoping review’, *Sustainable Chemistry One World*, article 100307. [https://doi.org/10.1016/j.scowo.2026.100307](https://doi.org/10.1016/j.scowo.2026.100307). [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2950357426001265?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 32,
+      "reference_number": 55,
+      "title": "Feedback withdrawal and independent competence in AI-assisted laparoscopic surgical training",
+      "citation": "G. A. Eneano et al., “Feedback withdrawal and independent competence in AI-assisted laparoscopic surgical training,” SSRN [Preprint], 2026.",
+      "url": "https://ssrn.com/abstract=7571293",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "32. Eneano, G.A. *et al.* (2026) ‘Feedback withdrawal and independent competence in AI-assisted laparoscopic surgical training’, *SSRN* [Preprint]. Available at: [https://ssrn.com/abstract=7571293](https://ssrn.com/abstract=7571293). [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7571293\\&utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 33,
+      "reference_number": 56,
+      "title": "Integrating digital health informatics to improve mental and physical health outcomes: A cross-sectional evaluation of ICT-enabled care pathways",
+      "citation": "G. A. Eneano et al., “Integrating digital health informatics to improve mental and physical health outcomes: A cross-sectional evaluation of ICT-enabled care pathways,” Human-Intelligent Systems Integration, 2026.",
+      "url": "https://ouci.dntb.gov.ua/en/works/4YmrBVea/",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "Publisher DOI and final pagination require confirmation.",
+      "original_entry": "33. Eneano, G.A. *et al.* (2026) ‘Integrating digital health informatics to improve mental and physical health outcomes: A cross-sectional evaluation of ICT-enabled care pathways’, *Human-Intelligent Systems Integration*. Bibliographic record: [https://ouci.dntb.gov.ua/en/works/4YmrBVea/](https://ouci.dntb.gov.ua/en/works/4YmrBVea/?utm_source=chatgpt.com). **Publisher DOI and final pagination require confirmation.** [ouci.dntb.gov.ua](https://ouci.dntb.gov.ua/en/works/4YmrBVea/?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 34,
+      "reference_number": 57,
+      "title": "Intelligent membrane systems for low-emission nitrogen management in agricultural wastewaters",
+      "citation": "G. A. Eneano et al., “Intelligent membrane systems for low-emission nitrogen management in agricultural wastewaters,” SSRN [Preprint], 2026.",
+      "url": "https://ssrn.com/abstract=6137613",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "34. Eneano, G.A. *et al.* (2026) ‘Intelligent membrane systems for low-emission nitrogen management in agricultural wastewaters’, *SSRN* [Preprint]. Available at: [https://ssrn.com/abstract=6137613](https://ssrn.com/abstract=6137613). [papers.ssrn.com](https://papers.ssrn.com/sol3/Delivery.cfm/ca80031e-618b-4120-82a5-1d40b1d59c36-MECA.pdf?abstractid=6137613\\&mirid=1\\&utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 35,
+      "reference_number": 58,
+      "title": "Safer, longer-lasting batteries using a smart gel electrolyte mix",
+      "citation": "A. A. Fajingbesi et al., “Safer, longer-lasting batteries using a smart gel electrolyte mix,” Future Batteries, 9, Art. no. 100132, 2026.",
+      "url": "https://doi.org/10.1016/j.fub.2025.100132",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "The final issue year is 2026, although the DOI contains 2025 and the early online record is dated December 2025.",
+      "original_entry": "35. Fajingbesi, A.A. *et al.* (2026) ‘Safer, longer-lasting batteries using a smart gel electrolyte mix’, *Future Batteries*, 9, article 100132. [https://doi.org/10.1016/j.fub.2025.100132](https://doi.org/10.1016/j.fub.2025.100132). **The final issue year is 2026, although the DOI contains 2025 and the early online record is dated December 2025.** [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S295026402500111X?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 36,
+      "reference_number": 59,
+      "title": "The structural tension between AI optimisation and ethical governance: Empirical evidence from organisational decision-making",
+      "citation": "A. F. Ibidunmoye et al., “The structural tension between AI optimisation and ethical governance: Empirical evidence from organisational decision-making,” Research Square [Preprint], 2026.",
+      "url": "https://doi.org/10.21203/rs.3.rs-8605675/v1",
+      "status": "Supplied record; not independently verified",
+      "scope": "Potential governance context; not RCA evidence",
+      "note": "",
+      "original_entry": "36. Ibidunmoye, A.F. *et al.* (2026) ‘The structural tension between AI optimisation and ethical governance: Empirical evidence from organisational decision-making’, *Research Square* [Preprint]. [https://doi.org/10.21203/rs.3.rs-8605675/v1](https://doi.org/10.21203/rs.3.rs-8605675/v1). [Sciety](https://sciety.org/articles/activity/10.21203/rs.3.rs-8605675/v1?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 37,
+      "reference_number": 60,
+      "title": "When AI measures sustainability: Ethical risks of metrics, bias, and SDG-washing",
+      "citation": "A. F. Ibidunmoye et al., “When AI measures sustainability: Ethical risks of metrics, bias, and SDG-washing,” Research Square [Preprint], 2026.",
+      "url": "https://doi.org/10.21203/rs.3.rs-8564828/v1",
+      "status": "Supplied record; not independently verified",
+      "scope": "Potential governance context; not RCA evidence",
+      "note": "",
+      "original_entry": "37. Ibidunmoye, A.F. *et al.* (2026) ‘When AI measures sustainability: Ethical risks of metrics, bias, and SDG-washing’, *Research Square* [Preprint]. [https://doi.org/10.21203/rs.3.rs-8564828/v1](https://doi.org/10.21203/rs.3.rs-8564828/v1). [Sciety](https://sciety.org/articles/activity/10.21203/rs.3.rs-8564828/v1?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 38,
+      "reference_number": 61,
+      "title": "Beyond transparency: Strategic contestability in algorithmic pricing and consumer trust",
+      "citation": "E. I. Igbodor et al., “Beyond transparency: Strategic contestability in algorithmic pricing and consumer trust,” SSRN [Preprint], 2026.",
+      "url": "https://ssrn.com/abstract=7272449",
+      "status": "Supplied record; not independently verified",
+      "scope": "Potential governance context; not RCA evidence",
+      "note": "",
+      "original_entry": "38. Igbodor, E.I. *et al.* (2026) ‘Beyond transparency: Strategic contestability in algorithmic pricing and consumer trust’, *SSRN* [Preprint]. Available at: [https://ssrn.com/abstract=7272449](https://ssrn.com/abstract=7272449). [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7272449\\&utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 39,
+      "reference_number": 62,
+      "title": "Human-centred prescriptive on sociotechnical accountability frameworks for ethical AI-driven sustainability management in SMEs",
+      "citation": "E. I. Igbodor et al., “Human-centred prescriptive on sociotechnical accountability frameworks for ethical AI-driven sustainability management in SMEs,” Human-Intelligent Systems Integration, 2026.",
+      "url": "",
+      "status": "Supplied record; not independently verified",
+      "scope": "Potential governance context; not RCA evidence",
+      "note": "DOI and final publication details unverified.",
+      "original_entry": "39. Igbodor, E.I. *et al.* (2026) ‘Human-centred prescriptive on sociotechnical accountability frameworks for ethical AI-driven sustainability management in SMEs’, *Human-Intelligent Systems Integration*. **DOI and final publication details unverified.**"
+    },
+    {
+      "supplied_number": 40,
+      "reference_number": 12,
+      "title": "Trust calibration in human-AI collaborative decision-making: A cross-domain investigation of climate intelligence and organisational governance systems",
+      "citation": "E. I. Igbodor, I. C. Mordi, N. B. Umoru, S. C. Akaelu, S. O. Akaelu and F. T. Omigbodun, “Trust calibration in human-AI collaborative decision-making: A cross-domain investigation of climate intelligence and organisational governance systems,” Human-Intelligent Systems Integration, 2026.",
+      "url": "https://doi.org/10.1007/s42454-026-00111-4",
+      "status": "Publisher metadata and abstract checked",
+      "scope": "Cited conceptual governance context",
+      "note": "Used for the conceptual distinction between capability and calibrated reliance; no cross-domain effect sizes are transferred.",
+      "original_entry": "40. Igbodor, E.I., Mordi, I.C., Umoru, N.B., Akaelu, S.C., Akaelu, S.O. and Omigbodun, F.T. (2026) ‘Trust calibration in human-AI collaborative decision-making: A cross-domain investigation of climate intelligence and organisational governance systems’, *Human-Intelligent Systems Integration*. [https://doi.org/10.1007/s42454-026-00111-4](https://doi.org/10.1007/s42454-026-00111-4). [Springer Nature Link](https://link.springer.com/article/10.1007/s42454-026-00111-4?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 41,
+      "reference_number": 63,
+      "title": "Circular carbon capture and utilisation pathways for sustainable agricultural systems",
+      "citation": "O. M. Ikeakaonwu et al., “Circular carbon capture and utilisation pathways for sustainable agricultural systems,” Sustainable Chemistry One World, Art. no. 100246, 2026.",
+      "url": "https://doi.org/10.1016/j.scowo.2026.100246",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "41. Ikeakaonwu, O.M. *et al.* (2026) ‘Circular carbon capture and utilisation pathways for sustainable agricultural systems’, *Sustainable Chemistry One World*, article 100246. [https://doi.org/10.1016/j.scowo.2026.100246](https://doi.org/10.1016/j.scowo.2026.100246). [SURE](https://sure.sunderland.ac.uk/id/eprint/20279/?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 42,
+      "reference_number": 64,
+      "title": "An ethical-legal framework for AI early warning systems in trafficking prevention",
+      "citation": "P. K. Ishaku, H. C. Ikediashi and E. I. Igbodor, “An ethical-legal framework for AI early warning systems in trafficking prevention,” Research Square [Preprint], 2026.",
+      "url": "https://doi.org/10.21203/rs.3.rs-9801239/v1",
+      "status": "Supplied record; not independently verified",
+      "scope": "Potential governance context; not RCA evidence",
+      "note": "",
+      "original_entry": "42. Ishaku, P.K., Ikediashi, H.C. and Igbodor, E.I. (2026) ‘An ethical-legal framework for AI early warning systems in trafficking prevention’, *Research Square* [Preprint]. [https://doi.org/10.21203/rs.3.rs-9801239/v1](https://doi.org/10.21203/rs.3.rs-9801239/v1). [researchgate.net](https://www.researchgate.net/publication/405977795_An_Ethical-Legal_Framework_for_AI_Early_Warning_Systems_in_Trafficking_Prevention?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 43,
+      "reference_number": 65,
+      "title": "Child-rights disclosure without remedy: Strategic governance gaps in food supply chains",
+      "citation": "P. K. Ishaku, H. C. Ikediashi, I. C. C. Mordi, A. A. Adefisan-Williams and S. A. Adeniyi, “Child-rights disclosure without remedy: Strategic governance gaps in food supply chains,” SSRN [Preprint], 2026.",
+      "url": "https://ssrn.com/abstract=7150555",
+      "status": "Supplied record; not independently verified",
+      "scope": "Potential governance context; not RCA evidence",
+      "note": "",
+      "original_entry": "43. Ishaku, P.K., Ikediashi, H.C., Mordi, I.C.C., Adefisan-Williams, A.A. and Adeniyi, S.A. (2026) ‘Child-rights disclosure without remedy: Strategic governance gaps in food supply chains’, *SSRN* [Preprint]. Available at: [https://ssrn.com/abstract=7150555](https://ssrn.com/abstract=7150555). [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7150555\\&utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 44,
+      "reference_number": 66,
+      "title": "Child-safe platform marketing governance: Evidence from digital business risk pathways",
+      "citation": "P. K. Ishaku, H. C. Ikediashi, I. C. Mordi, E. I. Igbodor, A. A. Adefisan-Williams and S. A. Adeniyi, “Child-safe platform marketing governance: Evidence from digital business risk pathways,” Strategic Business Research, vol. 2, no. 1, Art. no. 100292, 2026.",
+      "url": "https://doi.org/10.1016/j.sbr.2026.100292",
+      "status": "Supplied record; not independently verified",
+      "scope": "Potential governance context; not RCA evidence",
+      "note": "",
+      "original_entry": "44. Ishaku, P.K., Ikediashi, H.C., Mordi, I.C., Igbodor, E.I., Adefisan-Williams, A.A. and Adeniyi, S.A. (2026) ‘Child-safe platform marketing governance: Evidence from digital business risk pathways’, *Strategic Business Research*, 2(1), article 100292. [https://doi.org/10.1016/j.sbr.2026.100292](https://doi.org/10.1016/j.sbr.2026.100292). The repeated SSRN version is omitted. [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S3051064326002438?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 45,
+      "reference_number": 67,
+      "title": "Safeguarding capability as strategy: Digital whistleblowing for women’s workplace safety",
+      "citation": "P. K. Ishaku et al., “Safeguarding capability as strategy: Digital whistleblowing for women’s workplace safety,” SSRN [Preprint], 2026.",
+      "url": "https://ssrn.com/abstract=7088064",
+      "status": "Supplied record; not independently verified",
+      "scope": "Potential governance context; not RCA evidence",
+      "note": "",
+      "original_entry": "45. Ishaku, P.K. *et al.* (2026) ‘Safeguarding capability as strategy: Digital whistleblowing for women’s workplace safety’, *SSRN* [Preprint]. Available at: [https://ssrn.com/abstract=7088064](https://ssrn.com/abstract=7088064). [papers.ssrn.com](https://papers.ssrn.com/sol3/Delivery.cfm/d493ea6a-8d82-45a5-99d8-c84692dff22a-MECA.pdf?abstractid=7088064\\&mirid=1\\&utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 46,
+      "reference_number": 68,
+      "title": "Safeguarding human agency through noncompensatory evaluation of intelligent institutional systems",
+      "citation": "P. K. Ishaku et al., “Safeguarding human agency through noncompensatory evaluation of intelligent institutional systems,” International Journal of Advanced Scientific and Technical Research, 2026.",
+      "url": "",
+      "status": "Supplied record; not independently verified",
+      "scope": "Potential governance context; not RCA evidence",
+      "note": "DOI, volume, issue and pagination unverified.",
+      "original_entry": "46. Ishaku, P.K. *et al.* (2026) ‘Safeguarding human agency through noncompensatory evaluation of intelligent institutional systems’, *International Journal of Advanced Scientific and Technical Research*. **DOI, volume, issue and pagination unverified.**"
+    },
+    {
+      "supplied_number": 47,
+      "reference_number": 69,
+      "title": "Data-driven modelling of behavioural cost–carbon trade-offs for smart environmental decision support",
+      "citation": "L. O. Kolawole et al., “Data-driven modelling of behavioural cost–carbon trade-offs for smart environmental decision support,” Research Square [Preprint], 2026.",
+      "url": "https://doi.org/10.21203/rs.3.rs-8866333/v1",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "47. Kolawole, L.O. *et al.* (2026) ‘Data-driven modelling of behavioural cost–carbon trade-offs for smart environmental decision support’, *Research Square* [Preprint]. [https://doi.org/10.21203/rs.3.rs-8866333/v1](https://doi.org/10.21203/rs.3.rs-8866333/v1). [Sciety](https://sciety.org/articles/activity/10.21203/rs.3.rs-8866333/v1?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 48,
+      "reference_number": 70,
+      "title": "From waste to power: Lifecycle-optimised biodegradable piezoelectric systems for sustainable energy harvesting",
+      "citation": "L. O. Kolawole, C. C. Chuwa, I. E. Elemure, O. M. Ikeakaonwu, A. F. Ibidunmoye, G. A. Eneano and F. T. Omigbodun, “From waste to power: Lifecycle-optimised biodegradable piezoelectric systems for sustainable energy harvesting,” Sustainable Chemistry One World, 11, Art. no. 100244, 2026.",
+      "url": "https://doi.org/10.1016/j.scowo.2026.100244",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "48. Kolawole, L.O., Chuwa, C.C., Elemure, I.E., Ikeakaonwu, O.M., Ibidunmoye, A.F., Eneano, G.A. and Omigbodun, F.T. (2026) ‘From waste to power: Lifecycle-optimised biodegradable piezoelectric systems for sustainable energy harvesting’, *Sustainable Chemistry One World*, 11, article 100244. [https://doi.org/10.1016/j.scowo.2026.100244](https://doi.org/10.1016/j.scowo.2026.100244). [University of Portsmouth](https://researchportal.port.ac.uk/en/publications/from-waste-to-power-lifecycle-optimised-biodegradable-piezoelectr/?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 49,
+      "reference_number": 71,
+      "title": "Governing real-time carbon intelligence through assurance-gated decisions in sustainable supply chains",
+      "citation": "L. O. Kolawole, F. Omigbodun, C. C. Chuwa, D. O. Olokpo and O. O. Oladapo, “Governing real-time carbon intelligence through assurance-gated decisions in sustainable supply chains,” SSRN [Preprint], 2026.",
+      "url": "https://ssrn.com/abstract=7493999",
+      "status": "Supplied record; not independently verified",
+      "scope": "Adjacent systems or methods; not RCA validation",
+      "note": "",
+      "original_entry": "49. Kolawole, L.O., Omigbodun, F., Chuwa, C.C., Olokpo, D.O. and Oladapo, O.O. (2026) ‘Governing real-time carbon intelligence through assurance-gated decisions in sustainable supply chains’, *SSRN* [Preprint]. Available at: [https://ssrn.com/abstract=7493999](https://ssrn.com/abstract=7493999). [papers.ssrn.com](https://papers.ssrn.com/sol3/Delivery.cfm/d2ce6629-5232-4df9-9614-08e04801fa2f-MECA.pdf?abstractid=7493999\\&mirid=1\\&utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 50,
+      "reference_number": 72,
+      "title": "Smart solar water treatment: Sensor-informed control of solar TiO₂ photocatalysis for sustainable environmental water treatment",
+      "citation": "L. O. Kolawole et al., “Smart solar water treatment: Sensor-informed control of solar TiO₂ photocatalysis for sustainable environmental water treatment,” Sustainable Chemistry One World, 10, Art. no. 100213, 2026.",
+      "url": "https://doi.org/10.1016/j.scowo.2026.100213",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "50. Kolawole, L.O. *et al.* (2026) ‘Smart solar water treatment: Sensor-informed control of solar TiO₂ photocatalysis for sustainable environmental water treatment’, *Sustainable Chemistry One World*, 10, article 100213. [https://doi.org/10.1016/j.scowo.2026.100213](https://doi.org/10.1016/j.scowo.2026.100213). [Northumbria University Research Portal](https://researchportal.northumbria.ac.uk/en/publications/smart-solar-water-treatment-sensor-informed-control-of-solar-tio-/?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 51,
+      "reference_number": 73,
+      "title": "Calibrated synthetic consumer panels for governed strategic market testing",
+      "citation": "O. L. Lawal et al., “Calibrated synthetic consumer panels for governed strategic market testing,” Strategic Business Research, vol. 2, no. 1, Art. no. 100269, 2026.",
+      "url": "https://doi.org/10.1016/j.sbr.2026.100269",
+      "status": "Supplied record; not independently verified",
+      "scope": "Adjacent systems or methods; not RCA validation",
+      "note": "",
+      "original_entry": "51. Lawal, O.L. *et al.* (2026) ‘Calibrated synthetic consumer panels for governed strategic market testing’, *Strategic Business Research*, 2(1), article 100269. [https://doi.org/10.1016/j.sbr.2026.100269](https://doi.org/10.1016/j.sbr.2026.100269). [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S3051064326002207?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 52,
+      "reference_number": 74,
+      "title": "Cost-efficiency and return on investment of synthetic data generation in strategic market research: A quantitative decision framework",
+      "citation": "O. L. Lawal et al., “Cost-efficiency and return on investment of synthetic data generation in strategic market research: A quantitative decision framework,” SSRN [Preprint], 2026.",
+      "url": "https://ssrn.com/abstract=7126923",
+      "status": "Supplied record; not independently verified",
+      "scope": "Adjacent systems or methods; not RCA validation",
+      "note": "The located record was posted in July 2026; the supplied 2024 date was not supported.",
+      "original_entry": "52. Lawal, O.L. *et al.* (2026) ‘Cost-efficiency and return on investment of synthetic data generation in strategic market research: A quantitative decision framework’, *SSRN* [Preprint]. Available at: [https://ssrn.com/abstract=7126923](https://ssrn.com/abstract=7126923). **The located record was posted in July 2026; the supplied 2024 date was not supported.** [papers.ssrn.com](https://papers.ssrn.com/sol3/Delivery.cfm/140a7f3a-4540-42d5-9963-b1d846afbbf4-MECA.pdf?abstractid=7126923\\&mirid=1\\&utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 53,
+      "reference_number": 75,
+      "title": "Explainable supplier ranking improves risk calibration in new-product development under correlated disruptions",
+      "citation": "O. L. Lawal, O. F. Orisakahunsi, R. Olawale, E. I. Igbodor, A. A. Adefisan-Williams and S. A. Adeniyi, “Explainable supplier ranking improves risk calibration in new-product development under correlated disruptions,” SSRN [Preprint], 2026.",
+      "url": "https://ssrn.com/abstract=7304537",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "53. Lawal, O.L., Orisakahunsi, O.F., Olawale, R., Igbodor, E.I., Adefisan-Williams, A.A. and Adeniyi, S.A. (2026) ‘Explainable supplier ranking improves risk calibration in new-product development under correlated disruptions’, *SSRN* [Preprint]. Available at: [https://ssrn.com/abstract=7304537](https://ssrn.com/abstract=7304537). [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7304537\\&utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 54,
+      "reference_number": 76,
+      "title": "Governing algorithmic pricing through disclosure redress capacity and consumer trust",
+      "citation": "O. L. Lawal, P. K. Ishaku and B. Oladapo, “Governing algorithmic pricing through disclosure redress capacity and consumer trust,” [publication venue not verified], n.d.",
+      "url": "",
+      "status": "Supplied record; not independently verified",
+      "scope": "Potential governance context; not RCA evidence",
+      "note": "Year, publication venue and DOI/URL unverified.",
+      "original_entry": "54. Lawal, O.L., Ishaku, P.K. and Oladapo, B. (n.d.) ‘Governing algorithmic pricing through disclosure redress capacity and consumer trust’. **Year, publication venue and DOI/URL unverified.**"
+    },
+    {
+      "supplied_number": 55,
+      "reference_number": 77,
+      "title": "AI-augmented mental health care in Sahelian herder-farmer corridors: Ethical and scalable approaches via pastoral data trusts",
+      "citation": "I. G. Malachi et al., “AI-augmented mental health care in Sahelian herder-farmer corridors: Ethical and scalable approaches via pastoral data trusts,” SAP Social AI, 2025.",
+      "url": "https://sai.southam.pub/index.php/sai/article/view/15",
+      "status": "Supplied record; not independently verified",
+      "scope": "Potential governance context; not RCA evidence",
+      "note": "",
+      "original_entry": "55. Malachi, I.G. *et al.* (2025) ‘AI-augmented mental health care in Sahelian herder-farmer corridors: Ethical and scalable approaches via pastoral data trusts’, *SAP Social AI*. Available at: [https://sai.southam.pub/index.php/sai/article/view/15](https://sai.southam.pub/index.php/sai/article/view/15?utm_source=chatgpt.com). [SAP Social AI](https://sai.southam.pub/index.php/sai/article/view/15?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 56,
+      "reference_number": 78,
+      "title": "Digital sovereignty in the age of AI and sustainable transformation: A multi-layered governance framework",
+      "citation": "I. C. Mordi, N. B. Umoru, S. A. Palmer, K. K. Oladapo and R. A. Olawale, “Digital sovereignty in the age of AI and sustainable transformation: A multi-layered governance framework,” International Journal of Research in Management Fields, vol. 16, no. 1, 2026.",
+      "url": "https://zenodo.org/records/18748275",
+      "status": "Supplied record; not independently verified",
+      "scope": "Potential governance context; not RCA evidence",
+      "note": "",
+      "original_entry": "56. Mordi, I.C., Umoru, N.B., Palmer, S.A., Oladapo, K.K. and Olawale, R.A. (2026) ‘Digital sovereignty in the age of AI and sustainable transformation: A multi-layered governance framework’, *International Journal of Research in Management Fields*, 16(1). Repository record: [https://zenodo.org/records/18748275](https://zenodo.org/records/18748275?utm_source=chatgpt.com). [Zenodo](https://zenodo.org/records/18748275?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 57,
+      "reference_number": 79,
+      "title": "Digital transformation in international arbitration: Reconfiguring legal frameworks and procedural integrity in the algorithmic era",
+      "citation": "I. C. Mordi, S. A. Palmer, N. B. Umoru, K. K. Oladapo and R. A. Olawale, “Digital transformation in international arbitration: Reconfiguring legal frameworks and procedural integrity in the algorithmic era,” American Journal of Sustainable Cities and Society, vol. 16, no. 1, 2026.",
+      "url": "https://zenodo.org/records/18775222",
+      "status": "Supplied record; not independently verified",
+      "scope": "Adjacent systems or methods; not RCA validation",
+      "note": "",
+      "original_entry": "57. Mordi, I.C., Palmer, S.A., Umoru, N.B., Oladapo, K.K. and Olawale, R.A. (2026) ‘Digital transformation in international arbitration: Reconfiguring legal frameworks and procedural integrity in the algorithmic era’, *American Journal of Sustainable Cities and Society*, 16(1). Repository record: [https://zenodo.org/records/18775222](https://zenodo.org/records/18775222?utm_source=chatgpt.com). [Zenodo](https://zenodo.org/records/18775222?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 58,
+      "reference_number": 80,
+      "title": "Layered sovereignty and digital governance: Comparative models of infrastructure, regulation, and AI-mediated control in the global data economy",
+      "citation": "I. C. Mordi, N. B. Umoru, S. A. Palmer, K. K. Oladapo and R. A. Olawale, “Layered sovereignty and digital governance: Comparative models of infrastructure, regulation, and AI-mediated control in the global data economy,” International Journal of Advanced Scientific and Technical Research, vol. 16, no. 1, 2026.",
+      "url": "https://zenodo.org/records/18748987",
+      "status": "Supplied record; not independently verified",
+      "scope": "Potential governance context; not RCA evidence",
+      "note": "Your supplied records disagree on the volume/issue; confirm against the article PDF.",
+      "original_entry": "58. Mordi, I.C., Umoru, N.B., Palmer, S.A., Oladapo, K.K. and Olawale, R.A. (2026) ‘Layered sovereignty and digital governance: Comparative models of infrastructure, regulation, and AI-mediated control in the global data economy’, *International Journal of Advanced Scientific and Technical Research*, 16(1). Repository record: [https://zenodo.org/records/18748987](https://zenodo.org/records/18748987?utm_source=chatgpt.com). **Your supplied records disagree on the volume/issue; confirm against the article PDF.** [Zenodo](https://zenodo.org/records/18748987?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 59,
+      "reference_number": 81,
+      "title": "Bridging the gap: Rural-urban disparities in healthcare access",
+      "citation": "O. O. Odesanya et al., “Bridging the gap: Rural-urban disparities in healthcare access,” International Journal of Research in Management, vol. 15, no. 5, pp. 58–61, 2025.",
+      "url": "https://doi.org/10.5281/zenodo.17723243",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "The repository’s author field conflicts with the article record; full author order needs confirmation.",
+      "original_entry": "59. Odesanya, O.O. *et al.* (2025) ‘Bridging the gap: Rural-urban disparities in healthcare access’, *International Journal of Research in Management*, 15(5), pp. 58–61. Repository DOI: [https://doi.org/10.5281/zenodo.17723243](https://doi.org/10.5281/zenodo.17723243). **The repository’s author field conflicts with the article record; full author order needs confirmation.** [zenodo.org](https://zenodo.org/records/17723243?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 60,
+      "reference_number": 82,
+      "title": "Dual-triggered herbicide delivery for sustainable Sahelian agriculture",
+      "citation": "O. O. Odesanya et al., “Dual-triggered herbicide delivery for sustainable Sahelian agriculture,” International Journal of Advance Research Publication and Reviews, vol. 2, no. 11, pp. 202–212, 2025.",
+      "url": "https://ijarpr.com/uploads/V2ISSUE11/IJARPR1129.pdf",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "60. Odesanya, O.O. *et al.* (2025) ‘Dual-triggered herbicide delivery for sustainable Sahelian agriculture’, *International Journal of Advance Research Publication and Reviews*, 2(11), pp. 202–212. Available at: [https://ijarpr.com/uploads/V2ISSUE11/IJARPR1129.pdf](https://ijarpr.com/uploads/V2ISSUE11/IJARPR1129.pdf?utm_source=chatgpt.com). [ijarpr.com](https://ijarpr.com/uploads/V2ISSUE11/IJARPR1129.pdf?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 61,
+      "reference_number": 83,
+      "title": "Mechanisms and equity in tobacco control: Global policy pathways",
+      "citation": "O. O. Odesanya et al., “Mechanisms and equity in tobacco control: Global policy pathways,” International Journal of Research Publication and Reviews, vol. 6, no. 11, pp. 2543–2553, 2025.",
+      "url": "https://doi.org/10.55248/gengpi.06.1125.3894",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "61. Odesanya, O.O. *et al.* (2025) ‘Mechanisms and equity in tobacco control: Global policy pathways’, *International Journal of Research Publication and Reviews*, 6(11), pp. 2543–2553. [https://doi.org/10.55248/gengpi.06.1125.3894](https://doi.org/10.55248/gengpi.06.1125.3894?utm_source=chatgpt.com). [doi.org](https://doi.org/10.55248/gengpi.06.1125.3894?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 62,
+      "reference_number": 84,
+      "title": "Smart magnesium batteries: Using AI to power greener and more reliable desalination systems",
+      "citation": "O. B. Olasilola et al., “Smart magnesium batteries: Using AI to power greener and more reliable desalination systems,” Future Batteries, 2026.",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2950264026000122",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "First-author order follows your supplied article record and requires confirmation against the publisher PDF.",
+      "original_entry": "62. Olasilola, O.B. *et al.* (2026) ‘Smart magnesium batteries: Using AI to power greener and more reliable desalination systems’, *Future Batteries*. Available at: [https://www.sciencedirect.com/science/article/pii/S2950264026000122](https://www.sciencedirect.com/science/article/pii/S2950264026000122?utm_source=chatgpt.com). **First-author order follows your supplied article record and requires confirmation against the publisher PDF.** [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2950264026000122?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 63,
+      "reference_number": 85,
+      "title": "AI-driven regenerative agriculture of socioecological framework for biodiversity, climate resilience, and soil health",
+      "citation": "R. A. Olawale, O. O. Odesanya, P. T. Oluwasola, O. O. Akinola, E. A. Adeola, A. G. Ologun and I. Elemure, “AI-driven regenerative agriculture of socioecological framework for biodiversity, climate resilience, and soil health,” IOSR Journal of Business and Management, vol. 27, no. 8, pp. 39–48, 2025.",
+      "url": "https://doi.org/10.9790/487X-2708083948",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "63. Olawale, R.A., Odesanya, O.O., Oluwasola, P.T., Akinola, O.O., Adeola, E.A., Ologun, A.G. and Elemure, I. (2025) ‘AI-driven regenerative agriculture of socioecological framework for biodiversity, climate resilience, and soil health’, *IOSR Journal of Business and Management*, 27(8), pp. 39–48. [https://doi.org/10.9790/487X-2708083948](https://doi.org/10.9790/487X-2708083948). [iosrjournals.org](https://www.iosrjournals.org/iosr-jbm/pages/27%288%29Series-8.html?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 64,
+      "reference_number": 86,
+      "title": "AI-driven integrated solar-agrivoltaics systems transforming food security in West Africa",
+      "citation": "A. G. Ologun et al., “AI-driven integrated solar-agrivoltaics systems transforming food security in West Africa,” International Journal of Research in Management Fields, 2025.",
+      "url": "",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "The supplied volume/issue and publisher DOI/URL remain unverified.",
+      "original_entry": "64. Ologun, A.G. *et al.* (2025) ‘AI-driven integrated solar-agrivoltaics systems transforming food security in West Africa’, *International Journal of Research in Management Fields*. **The supplied volume/issue and publisher DOI/URL remain unverified.**"
+    },
+    {
+      "supplied_number": 65,
+      "reference_number": 87,
+      "title": "Evaluating digital health tools in chronic disease management effectiveness",
+      "citation": "A. G. Ologun et al., “Evaluating digital health tools in chronic disease management effectiveness,” International Journal of Advanced Scientific and Technical Research, vol. 15, no. 6, 2025.",
+      "url": "",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "DOI and article-specific URL unverified.",
+      "original_entry": "65. Ologun, A.G. *et al.* (2025) ‘Evaluating digital health tools in chronic disease management effectiveness’, *International Journal of Advanced Scientific and Technical Research*, 15(6). **DOI and article-specific URL unverified.**"
+    },
+    {
+      "supplied_number": 66,
+      "reference_number": 88,
+      "title": "Integrating one health, behavioural dynamics, and surveillance to control emerging infectious disease threats",
+      "citation": "A. G. Ologun et al., “Integrating one health, behavioural dynamics, and surveillance to control emerging infectious disease threats,” International Journal of Research in Management, vol. 15, no. 6, 2025.",
+      "url": "",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "DOI and article-specific URL unverified.",
+      "original_entry": "66. Ologun, A.G. *et al.* (2025) ‘Integrating one health, behavioural dynamics, and surveillance to control emerging infectious disease threats’, *International Journal of Research in Management*, 15(6). **DOI and article-specific URL unverified.**"
+    },
+    {
+      "supplied_number": 67,
+      "reference_number": 89,
+      "title": "Optimising project portfolios through responsible AI and ethical compliance",
+      "citation": "A. G. Ologun et al., “Optimising project portfolios through responsible AI and ethical compliance,” International Journal of Research in Management Fields, 2025.",
+      "url": "https://doi.org/10.5281/zenodo.18021350",
+      "status": "Supplied record; not independently verified",
+      "scope": "Potential governance context; not RCA evidence",
+      "note": "The located record places Ologun first; your supplied lists also contain a conflicting Mordi-first version.",
+      "original_entry": "67. Ologun, A.G. *et al.* (2025) ‘Optimising project portfolios through responsible AI and ethical compliance’, *International Journal of Research in Management Fields*. Repository DOI: [https://doi.org/10.5281/zenodo.18021350](https://doi.org/10.5281/zenodo.18021350). **The located record places Ologun first; your supplied lists also contain a conflicting Mordi-first version.** [researchgate.net](https://www.researchgate.net/publication/399054104_Optimising_Project_Portfolios_through_Responsible_AI_and_Ethical_Compliance?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 68,
+      "reference_number": 11,
+      "title": "AI governance and ethical frameworks for public-sector AI decision systems: An institutional operationalisation model",
+      "citation": "A. Ologun, O. M. Ikeakaonwu, A. F. Ibidunmoye, G. A. Eneano, C. C. Chuwa and L. O. Kolawole, “AI governance and ethical frameworks for public-sector AI decision systems: An institutional operationalisation model,” AI and Ethics, 6, Art. no. 294, 2026.",
+      "url": "https://doi.org/10.1007/s43681-026-01143-x",
+      "status": "Publisher metadata and abstract checked",
+      "scope": "Cited conceptual governance context",
+      "note": "Publisher page describes survey/interview data but its data-availability statement says no datasets were generated or analysed. Used only for the conceptual documentation argument; quantitative claims are not transferred.",
+      "original_entry": "68. Ologun, A., Ikeakaonwu, O.M., Ibidunmoye, A.F., Eneano, G.A., Chuwa, C.C. and Kolawole, L.O. (2026) ‘AI governance and ethical frameworks for public-sector AI decision systems: An institutional operationalisation model’, *AI and Ethics*, 6, article 294. [https://doi.org/10.1007/s43681-026-01143-x](https://doi.org/10.1007/s43681-026-01143-x). [Springer Nature Link](https://link.springer.com/article/10.1007/s43681-026-01143-x?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 69,
+      "reference_number": 90,
+      "title": "Ethical frameworks for AI-enabled decision analytics in digital governance: A multi-stakeholder perspective",
+      "citation": "A. Ologun, O. M. Ikeakaonwu, A. F. Ibidunmoye, G. A. Eneano, C. C. Chuwa and L. O. Kolawole, “Ethical frameworks for AI-enabled decision analytics in digital governance: A multi-stakeholder perspective,” Research Square [Preprint], 2026.",
+      "url": "https://doi.org/10.21203/rs.3.rs-9066551/v1",
+      "status": "Supplied record; not independently verified",
+      "scope": "Potential governance context; not RCA evidence",
+      "note": "",
+      "original_entry": "69. Ologun, A., Ikeakaonwu, O.M., Ibidunmoye, A.F., Eneano, G.A., Chuwa, C.C. and Kolawole, L.O. (2026) ‘Ethical frameworks for AI-enabled decision analytics in digital governance: A multi-stakeholder perspective’, *Research Square* [Preprint]. [https://doi.org/10.21203/rs.3.rs-9066551/v1](https://doi.org/10.21203/rs.3.rs-9066551/v1). [assets-eu.researchsquare.com](https://assets-eu.researchsquare.com/files/rs-9066551/v1/b37c3d07-e7ba-4648-83b1-eeab83049700.pdf?c=1773233161\\&utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 70,
+      "reference_number": 91,
+      "title": "Resilient and sustainable digital supply chains: An integrated framework leveraging AI, IoT, and digital twin technologies",
+      "citation": "A. G. Ologun, O. O. Odesanya, I. C. Mordi, N. B. Umoru and S. A. Palmer, “Resilient and sustainable digital supply chains: An integrated framework leveraging AI, IoT, and digital twin technologies,” International Journal of Advanced Scientific and Technical Research, vol. 16, no. 2, 2026.",
+      "url": "https://doi.org/10.5281/zenodo.18899032",
+      "status": "Supplied record; not independently verified",
+      "scope": "Adjacent systems or methods; not RCA validation",
+      "note": "",
+      "original_entry": "70. Ologun, A.G., Odesanya, O.O., Mordi, I.C., Umoru, N.B. and Palmer, S.A. (2026) ‘Resilient and sustainable digital supply chains: An integrated framework leveraging AI, IoT, and digital twin technologies’, *International Journal of Advanced Scientific and Technical Research*, 16(2). Repository DOI: [https://doi.org/10.5281/zenodo.18899032](https://doi.org/10.5281/zenodo.18899032). [researchgate.net](https://www.researchgate.net/publication/401665475_Resilient_and_Sustainable_Digital_Supply_Chains_An_Integrated_Framework_Leveraging_AI_IoT_and_Digital_Twin_Technologies?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 71,
+      "reference_number": 92,
+      "title": "Comparative environmental assessment of magnesium-ion and lithium-ion batteries using artificial intelligence",
+      "citation": "D. O. Olokpo et al., “Comparative environmental assessment of magnesium-ion and lithium-ion batteries using artificial intelligence,” SSRN [Preprint], 2026.",
+      "url": "https://ssrn.com/abstract=6779039",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "The SSRN metadata repeats an author name, so the complete author list requires checking.",
+      "original_entry": "71. Olokpo, D.O. *et al.* (2026) ‘Comparative environmental assessment of magnesium-ion and lithium-ion batteries using artificial intelligence’, *SSRN* [Preprint]. Available at: [https://ssrn.com/abstract=6779039](https://ssrn.com/abstract=6779039). **The SSRN metadata repeats an author name, so the complete author list requires checking.** [papers.ssrn.com](https://papers.ssrn.com/sol3/Delivery.cfm/3c705722-9efa-41b1-b284-d23dcd20446a-MECA.pdf?abstractid=6779039\\&mirid=1\\&type=2\\&utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 72,
+      "reference_number": 93,
+      "title": "Fairness signals, consumer agency, and trust in algorithmic pricing ecosystems",
+      "citation": "D. O. Olokpo et al., “Fairness signals, consumer agency, and trust in algorithmic pricing ecosystems,” SSRN [Preprint], 2026.",
+      "url": "https://ssrn.com/abstract=7272454",
+      "status": "Supplied record; not independently verified",
+      "scope": "Potential governance context; not RCA evidence",
+      "note": "",
+      "original_entry": "72. Olokpo, D.O. *et al.* (2026) ‘Fairness signals, consumer agency, and trust in algorithmic pricing ecosystems’, *SSRN* [Preprint]. Available at: [https://ssrn.com/abstract=7272454](https://ssrn.com/abstract=7272454). [papers.ssrn.com](https://papers.ssrn.com/sol3/Delivery.cfm/b798f8f0-d9a1-4451-952e-ea40b6b51300-MECA.pdf?abstractid=7272454\\&mirid=1\\&utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 73,
+      "reference_number": 94,
+      "title": "Machine learning-based groundwater contamination risk prediction from lithium-ion battery waste",
+      "citation": "D. O. Olokpo et al., “Machine learning-based groundwater contamination risk prediction from lithium-ion battery waste,” SSRN [Preprint], 2026.",
+      "url": "https://ssrn.com/abstract=6779040",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "73. Olokpo, D.O. *et al.* (2026) ‘Machine learning-based groundwater contamination risk prediction from lithium-ion battery waste’, *SSRN* [Preprint]. Available at: [https://ssrn.com/abstract=6779040](https://ssrn.com/abstract=6779040). [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6779040\\&utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 74,
+      "reference_number": 95,
+      "title": "Renewable electricity as a design metric for profitable sustainable chemistry",
+      "citation": "D. O. Olokpo et al., “Renewable electricity as a design metric for profitable sustainable chemistry,” Sustainable Chemistry One World, 2026.",
+      "url": "",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "Publisher DOI, article number and complete authorship unverified.",
+      "original_entry": "74. Olokpo, D.O. *et al.* (2026) ‘Renewable electricity as a design metric for profitable sustainable chemistry’, *Sustainable Chemistry One World*. **Publisher DOI, article number and complete authorship unverified.**"
+    },
+    {
+      "supplied_number": 75,
+      "reference_number": 96,
+      "title": "Eco-friendly innovation: Enhancing orthotic production with additive manufacturing",
+      "citation": "A. A. Oni, A. A. Fajingbesi, E. O. Oluwabiyi, F. T. Omigbodun, V. M. Jegede, A. G. Ologun and F. P. Adeyekun, “Eco-friendly innovation: Enhancing orthotic production with additive manufacturing,” Process Safety and Environmental Protection, 210, Art. no. 108665, 2026.",
+      "url": "https://doi.org/10.1016/j.psep.2026.108665",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "75. Oni, A.A., Fajingbesi, A.A., Oluwabiyi, E.O., Omigbodun, F.T., Jegede, V.M., Ologun, A.G. and Adeyekun, F.P. (2026) ‘Eco-friendly innovation: Enhancing orthotic production with additive manufacturing’, *Process Safety and Environmental Protection*, 210, article 108665. [https://doi.org/10.1016/j.psep.2026.108665](https://doi.org/10.1016/j.psep.2026.108665). [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S095758202600282X?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 76,
+      "reference_number": 97,
+      "title": "Converting AI governance commitments into public value through timely institutional redress",
+      "citation": "O. D. Oni et al., “Converting AI governance commitments into public value through timely institutional redress,” American Journal of Sustainable Cities and Society, 2026.",
+      "url": "",
+      "status": "Supplied record; not independently verified",
+      "scope": "Potential governance context; not RCA evidence",
+      "note": "DOI, volume, issue and pagination unverified.",
+      "original_entry": "76. Oni, O.D. *et al.* (2026) ‘Converting AI governance commitments into public value through timely institutional redress’, *American Journal of Sustainable Cities and Society*. **DOI, volume, issue and pagination unverified.**"
+    },
+    {
+      "supplied_number": 77,
+      "reference_number": 98,
+      "title": "Bridging the trust gap: Assuring predictive validity and trustworthiness in AI-generated consumer behaviour insights",
+      "citation": "O. F. Orisakahunsi, O. L. Lawal, F. T. Omigbodun, E. I. Igbodor, A. A. Adefisan-Williams and P. K. Ishaku, “Bridging the trust gap: Assuring predictive validity and trustworthiness in AI-generated consumer behaviour insights,” Strategic Business Research, Art. no. 100291, 2026.",
+      "url": "https://doi.org/10.1016/j.sbr.2026.100291",
+      "status": "Supplied record; not independently verified",
+      "scope": "Potential governance context; not RCA evidence",
+      "note": "",
+      "original_entry": "77. Orisakahunsi, O.F., Lawal, O.L., Omigbodun, F.T., Igbodor, E.I., Adefisan-Williams, A.A. and Ishaku, P.K. (2026) ‘Bridging the trust gap: Assuring predictive validity and trustworthiness in AI-generated consumer behaviour insights’, *Strategic Business Research*, article 100291. [https://doi.org/10.1016/j.sbr.2026.100291](https://doi.org/10.1016/j.sbr.2026.100291). The earlier ‘A strategic framework for validating…’ record is consolidated here as the apparent earlier version. [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S3051064326002426?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 78,
+      "reference_number": 99,
+      "title": "Fairness-constrained dynamic pricing strategically balances profit, equity and consumer trust risk",
+      "citation": "O. F. Orisakahunsi et al., “Fairness-constrained dynamic pricing strategically balances profit, equity and consumer trust risk,” SSRN [Preprint], 2026.",
+      "url": "https://ssrn.com/abstract=7272455",
+      "status": "Supplied record; not independently verified",
+      "scope": "Potential governance context; not RCA evidence",
+      "note": "The located SSRN record places Orisakahunsi first, rather than Lawal.",
+      "original_entry": "78. Orisakahunsi, O.F. *et al.* (2026) ‘Fairness-constrained dynamic pricing strategically balances profit, equity and consumer trust risk’, *SSRN* [Preprint]. Available at: [https://ssrn.com/abstract=7272455](https://ssrn.com/abstract=7272455). **The located SSRN record places Orisakahunsi first, rather than Lawal.** [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7272455\\&utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 79,
+      "reference_number": 100,
+      "title": "Interoperable token liquidity and consumer retention across blockchain loyalty ecosystems",
+      "citation": "O. F. Orisakahunsi, O. L. Lawal, F. T. Omigbodun, E. I. Igbodor, A. A. Adefisan-Williams and P. K. Ishaku, “Interoperable token liquidity and consumer retention across blockchain loyalty ecosystems,” Strategic Business Research, vol. 2, no. 1, Art. no. 100283, 2026.",
+      "url": "https://doi.org/10.1016/j.sbr.2026.100283",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "79. Orisakahunsi, O.F., Lawal, O.L., Omigbodun, F.T., Igbodor, E.I., Adefisan-Williams, A.A. and Ishaku, P.K. (2026) ‘Interoperable token liquidity and consumer retention across blockchain loyalty ecosystems’, *Strategic Business Research*, 2(1), article 100283. [https://doi.org/10.1016/j.sbr.2026.100283](https://doi.org/10.1016/j.sbr.2026.100283). [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S3051064326002347?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 80,
+      "reference_number": 101,
+      "title": "Integrated ethical framework for digital transformation: Balancing AI governance, supply chain resilience, and sustainable infrastructure",
+      "citation": "S. A. Palmer, N. B. Umoru, I. C. Mordi and R. A. Olawale, “Integrated ethical framework for digital transformation: Balancing AI governance, supply chain resilience, and sustainable infrastructure,” American Journal of Sustainable Cities and Society, vol. 16, no. 1, 2026.",
+      "url": "https://doi.org/10.5281/zenodo.18788416",
+      "status": "Supplied record; not independently verified",
+      "scope": "Potential governance context; not RCA evidence",
+      "note": "",
+      "original_entry": "80. Palmer, S.A., Umoru, N.B., Mordi, I.C. and Olawale, R.A. (2026) ‘Integrated ethical framework for digital transformation: Balancing AI governance, supply chain resilience, and sustainable infrastructure’, *American Journal of Sustainable Cities and Society*, 16(1). Repository DOI: [https://doi.org/10.5281/zenodo.18788416](https://doi.org/10.5281/zenodo.18788416). [researchgate.net](https://www.researchgate.net/publication/401347272_Integrated_Ethical_Framework_for_Digital_Transformation_Balancing_AI_Governance_Supply_Chain_Resilience_and_Sustainable_Infrastructure?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 81,
+      "reference_number": 102,
+      "title": "Leadership dynamics and organisational culture in resource-constrained healthcare: A mixed-methods analysis of frontline management effectiveness",
+      "citation": "S. A. Palmer, N. B. Umoru, I. C. Mordi, O. M. Ikeakaonwu and A. F. Ibidunmoye, “Leadership dynamics and organisational culture in resource-constrained healthcare: A mixed-methods analysis of frontline management effectiveness,” International Journal of Research in Management, vol. 16, no. 2, pp. 1–14, 2026.",
+      "url": "",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "DOI/URL unverified.",
+      "original_entry": "81. Palmer, S.A., Umoru, N.B., Mordi, I.C., Ikeakaonwu, O.M. and Ibidunmoye, A.F. (2026) ‘Leadership dynamics and organisational culture in resource-constrained healthcare: A mixed-methods analysis of frontline management effectiveness’, *International Journal of Research in Management*, 16(2), pp. 1–14. **DOI/URL unverified.** The shortened ‘Organisational culture in resource-constrained healthcare…’ entry has been consolidated here provisionally."
+    },
+    {
+      "supplied_number": 82,
+      "reference_number": 103,
+      "title": "Leadership dynamics and staff performance in resource-constrained healthcare settings: A sequential explanatory mixed-methods investigation",
+      "citation": "S. A. Palmer, N. B. Umoru, I. C. Mordi, O. M. Ikeakaonwu and A. F. Ibidunmoye, “Leadership dynamics and staff performance in resource-constrained healthcare settings: A sequential explanatory mixed-methods investigation,” International Journal of Advanced Scientific and Technical Research, vol. 16, no. 2, 2026.",
+      "url": "",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "DOI/URL unverified.",
+      "original_entry": "82. Palmer, S.A., Umoru, N.B., Mordi, I.C., Ikeakaonwu, O.M. and Ibidunmoye, A.F. (2026) ‘Leadership dynamics and staff performance in resource-constrained healthcare settings: A sequential explanatory mixed-methods investigation’, *International Journal of Advanced Scientific and Technical Research*, 16(2). **DOI/URL unverified.**"
+    },
+    {
+      "supplied_number": 83,
+      "reference_number": 104,
+      "title": "AI-enabled earth observation as a strategic capability for climate-resilient infrastructure management",
+      "citation": "C. D. Ukala et al., “AI-enabled earth observation as a strategic capability for climate-resilient infrastructure management,” SSRN [Preprint], 2026.",
+      "url": "https://ssrn.com/abstract=7467825",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "83. Ukala, C.D. *et al.* (2026) ‘AI-enabled earth observation as a strategic capability for climate-resilient infrastructure management’, *SSRN* [Preprint]. Available at: [https://ssrn.com/abstract=7467825](https://ssrn.com/abstract=7467825). [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7467825\\&utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 84,
+      "reference_number": 105,
+      "title": "AI-mediated learning environments, pedagogical uncertainty, and the ethics of belonging",
+      "citation": "N. B. Umoru et al., “AI-mediated learning environments, pedagogical uncertainty, and the ethics of belonging,” Research Square [Preprint], 2026.",
+      "url": "https://doi.org/10.21203/rs.3.rs-8688758/v1",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "84. Umoru, N.B. *et al.* (2026) ‘AI-mediated learning environments, pedagogical uncertainty, and the ethics of belonging’, *Research Square* [Preprint]. [https://doi.org/10.21203/rs.3.rs-8688758/v1](https://doi.org/10.21203/rs.3.rs-8688758/v1). [Sciety](https://sciety.org/articles/activity/10.21203/rs.3.rs-8688758/v1?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 85,
+      "reference_number": 106,
+      "title": "From compliance to self-advocacy: Neurodiversity-affirming SEL for ADHD and autistic students",
+      "citation": "N. B. Umoru, S. A. Adeniyi, A. A. Adefisan-Williams, R. A. Olawale and E. I. Igbodor, “From compliance to self-advocacy: Neurodiversity-affirming SEL for ADHD and autistic students,” International Journal of Advanced Scientific and Technical Research, vol. 16, no. 4, 2026.",
+      "url": "https://zenodo.org/records/21455037",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "85. Umoru, N.B., Adeniyi, S.A., Adefisan-Williams, A.A., Olawale, R.A. and Igbodor, E.I. (2026) ‘From compliance to self-advocacy: Neurodiversity-affirming SEL for ADHD and autistic students’, *International Journal of Advanced Scientific and Technical Research*, 16(4). Repository record: [https://zenodo.org/records/21455037](https://zenodo.org/records/21455037?utm_source=chatgpt.com). [Zenodo](https://zenodo.org/records/21455037?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 86,
+      "reference_number": 107,
+      "title": "How trauma-informed pedagogy works: Parallel social-emotional mediation of adolescent academic behavioural outcomes",
+      "citation": "N. B. Umoru, S. A. Adeniyi, A. A. Adefisan-Williams, R. A. Olawale and E. I. Igbodor, “How trauma-informed pedagogy works: Parallel social-emotional mediation of adolescent academic behavioural outcomes,” American Journal of Sustainable Cities and Society, vol. 16, no. 4, 2026.",
+      "url": "https://doi.org/10.5281/zenodo.21496086",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "86. Umoru, N.B., Adeniyi, S.A., Adefisan-Williams, A.A., Olawale, R.A. and Igbodor, E.I. (2026) ‘How trauma-informed pedagogy works: Parallel social-emotional mediation of adolescent academic behavioural outcomes’, *American Journal of Sustainable Cities and Society*, 16(4). Repository DOI: [https://doi.org/10.5281/zenodo.21496086](https://doi.org/10.5281/zenodo.21496086). [researchgate.net](https://www.researchgate.net/publication/410758644_How_Trauma-Informed_Pedagogy_Works_Parallel_Social-Emotional_Mediation_of_Adolescent_Academic_Behavioural_Outcomes?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 87,
+      "reference_number": 108,
+      "title": "Scaling artificial intelligence: Diffusion speed and enterprise-size polarisation across Europe",
+      "citation": "N. B. Umoru, K. E. Umoru, P. K. Ishaku, O. L. Lawal and A. A. Adefisan-Williams, “Scaling artificial intelligence: Diffusion speed and enterprise-size polarisation across Europe,” Strategic Business Research, Art. no. 100318, 2026.",
+      "url": "https://www.sciencedirect.com/science/article/pii/S3051064326002694",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "87. Umoru, N.B., Umoru, K.E., Ishaku, P.K., Lawal, O.L. and Adefisan-Williams, A.A. (2026) ‘Scaling artificial intelligence: Diffusion speed and enterprise-size polarisation across Europe’, *Strategic Business Research*, article 100318. Available at: [https://www.sciencedirect.com/science/article/pii/S3051064326002694](https://www.sciencedirect.com/science/article/pii/S3051064326002694?utm_source=chatgpt.com). [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S3051064326002694?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 88,
+      "reference_number": 109,
+      "title": "Social-emotional learning, mentoring quality, and persistence: A multi-institutional empirical study",
+      "citation": "N. B. Umoru, S. A. Adeniyi, A. A. Adefisan-Williams and R. A. Olawale, “Social-emotional learning, mentoring quality, and persistence: A multi-institutional empirical study,” International Journal of Research in Management Fields, vol. 16, no. 4, 2026.",
+      "url": "https://zenodo.org/records/21495771",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "88. Umoru, N.B., Adeniyi, S.A., Adefisan-Williams, A.A. and Olawale, R.A. (2026) ‘Social-emotional learning, mentoring quality, and persistence: A multi-institutional empirical study’, *International Journal of Research in Management Fields*, 16(4). Repository record: [https://zenodo.org/records/21495771](https://zenodo.org/records/21495771?utm_source=chatgpt.com). [Zenodo](https://zenodo.org/records/21495771?utm_source=chatgpt.com)"
+    },
+    {
+      "supplied_number": 89,
+      "reference_number": 110,
+      "title": "Teacher emotional labor, burnout, and SEL fidelity: Pathways to student behavioral outcomes",
+      "citation": "N. B. Umoru, S. A. Adeniyi, A. A. Adefisan-Williams and R. A. Olawale, “Teacher emotional labor, burnout, and SEL fidelity: Pathways to student behavioral outcomes,” International Journal of Advanced Scientific and Technical Research, vol. 16, no. 4, 2026.",
+      "url": "https://zenodo.org/records/21495287",
+      "status": "Supplied record; not independently verified",
+      "scope": "Outside the direct diagnosis and evidence question",
+      "note": "",
+      "original_entry": "89. Umoru, N.B., Adeniyi, S.A., Adefisan-Williams, A.A. and Olawale, R.A. (2026) ‘Teacher emotional labor, burnout, and SEL fidelity: Pathways to student behavioral outcomes’, *International Journal of Advanced Scientific and Technical Research*, 16(4). Repository record: [https://zenodo.org/records/21495287](https://zenodo.org/records/21495287?utm_source=chatgpt.com)."
+    }
+  ]
+}

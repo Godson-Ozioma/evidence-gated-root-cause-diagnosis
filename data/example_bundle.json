@@ -1,0 +1,32 @@
+{
+  "manifest": {
+    "schema": "synthetic-rca-evidence-v1",
+    "incident": "I0000-M00",
+    "environment": "synthetic",
+    "model": "gaussian-graph-v1",
+    "rule": "reverse-dependency-likelihood-v1",
+    "root": "Auth",
+    "posterior": "0.99951007139748771",
+    "human_review": "not_performed",
+    "evidence": {
+      "API": "44d7c4e2dbc12431b8b49156cda0db3d08fafeb39471f4a7d028bfa853049586",
+      "Auth": "2e15be7b7a1cde2fef0767ac5306b9630d72ecf6b4cdac10026b8c47d4309d13",
+      "Account": "4f233e432067ca24fe93b55e48d6f650667c7dcbbf15d6555dfc41188d21c128",
+      "Ledger": "cca1dfb26c0c055bf27e40a69e3b7dda426e6b62b3e23dd68560df97dfc5596f",
+      "Payment": "5dc4eead7fa0462697483c700033c85397a0ddf27463fd3ff1df5a0fafd571a0",
+      "Audit": "935ea6a2cc9f991f40dee2be5b3913793ca59a8847b71e83f9790d224ba8b555",
+      "Database": "6e4a4b855cc15b0cf6fa303aafdbaf63aeb713fc7777866d1be2fe7cfcbcb5ea"
+    }
+  },
+  "blobs": {
+    "API": "{\"amplitude\":\"1.0445469715505182\",\"incident\":\"I0000-M00\",\"node\":\"API\",\"onset\":\"1.0654520578038369\"}",
+    "Auth": "{\"amplitude\":\"0.85887918696844778\",\"incident\":\"I0000-M00\",\"node\":\"Auth\",\"onset\":\"1.1071319409152096\"}",
+    "Account": "{\"amplitude\":\"0.67138049290598945\",\"incident\":\"I0000-M00\",\"node\":\"Account\",\"onset\":\"5.7159371929677052\"}",
+    "Ledger": "{\"amplitude\":\"-2.7461185393134713\",\"incident\":\"I0000-M00\",\"node\":\"Ledger\",\"onset\":\"3.7822711835793172\"}",
+    "Payment": "{\"amplitude\":\"-0.79015635925235717\",\"incident\":\"I0000-M00\",\"node\":\"Payment\",\"onset\":\"5.1114036445329738\"}",
+    "Audit": "{\"amplitude\":\"-0.29396319668650761\",\"incident\":\"I0000-M00\",\"node\":\"Audit\",\"onset\":\"4.8938815813259726\"}",
+    "Database": "{\"amplitude\":\"-0.93975093172002755\",\"incident\":\"I0000-M00\",\"node\":\"Database\",\"onset\":\"4.1827757118311606\"}"
+  },
+  "signature_hex": "4aa4cef2908940ec48280c50bcc898d726f1fa63d628f45307ee9f4b743659ed05f828b8a31b584dc20d30e977663d644b3503a7f7456dd0526fa1b8b3ff090d",
+  "public_key_hex": "7449fc1a0d5f0bf0bbc24f3e10124f526cca73654aaed8d4b8517950ebc82052"
+}

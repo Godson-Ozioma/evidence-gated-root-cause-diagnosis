@@ -1,0 +1,12 @@
+{
+  "identical_on_rerun": true,
+  "sha256": {
+    "study/data/incidents.csv": "ca3d5e1382829ede128903d522c01645ef7c3dc6f32ddb9230f5ba4a8853e5a8",
+    "study/data/telemetry.csv": "c1e029cd5136dc14029393039013a5b34a24ffc1a25a804e84d761fb7dcc24f4",
+    "study/data/model_mismatch.csv": "3fc12a839a3634dd26cfbccd8b1153bee8ea22d2fd52d15e81098c3dbb0e9570",
+    "study/data/integrity_checks.csv": "a88ab168582cfd8ba40265f842b014cdfa9e3d2837a8fca314362db289e8f263",
+    "study/data/risk_coverage.csv": "18e78bd760b027e17530aa841170d276bc367342e9134c2c9e4ded3b29faa0d2",
+    "study/data/summary.json": "8067cadc6af897328088f233372b923c1d8282e1cfba3f085e8f08018ebb6ee5",
+    "study/data/example_bundle.json": "77a4dde47472a2b48eaee4822effc95649bc9868192b9e0e70172a4b6e4db71c"
+  }
+}
